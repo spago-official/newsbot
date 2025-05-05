@@ -33,8 +33,8 @@ async function main() {
 
     for (const item of newItems) {
       try {
-        const summary = await summarizeArticle(item);
-        await sendToLine(summary);
+        const summarizedItem = await summarizeArticle(item);
+        await sendToLine(summarizedItem);
         console.log(`Sent article: ${item.title}`);
       } catch (error) {
         console.error(`Error processing article ${item.title}:`, error);
