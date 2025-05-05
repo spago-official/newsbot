@@ -29,10 +29,16 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git config --global --add safe.directory /home/runner/work/newsbot/newsbot
+          git config --global credential.helper store
+          echo "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com" > ~/.git-credentials
 
       - name: Initialize news history
         run: |
           set -e
+          echo "Current directory: $(pwd)"
+          echo "Listing files:"
+          ls -la
+          
           if [ ! -f news_history.json ]; then
             echo "Creating new news history file"
             echo '{"items":[]}' > news_history.json
