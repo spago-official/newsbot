@@ -24,10 +24,13 @@ export async function summarizeArticle(item: FeedItem): Promise<FeedItem> {
 
 export async function processArticles(items: FeedItem[]): Promise<Array<FeedItem & { summary: string }>> {
   const processedItems = await Promise.all(
-    items.map(async (item) => ({
-      ...item,
-      summary: await summarizeArticle(item).description
-    }))
+    items.map(async (item) => {
+      const summarizedItem = await summarizeArticle(item);
+      return {
+        ...item,
+        summary: summarizedItem.description || ''
+      };
+    })
   );
 
   return processedItems;
