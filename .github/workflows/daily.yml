@@ -23,6 +23,11 @@ jobs:
         with:
           fetch-depth: 0  # 全履歴を取得
 
+      - name: Setup Git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
       - name: Initialize news history
         run: |
           if [ ! -f news_history.json ]; then
@@ -30,6 +35,9 @@ jobs:
             git add -f news_history.json
             git commit -m "Initialize news history file"
             git push
+          else
+            echo "News history file exists"
+            cat news_history.json
           fi
 
       - uses: actions/setup-node@v4
@@ -53,12 +61,13 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
           git add -f news_history.json
           if git diff --quiet && git diff --staged --quiet; then
             echo "No changes to commit"
           else
+            echo "Changes detected in news history"
+            git status
+            git diff news_history.json
             git commit -m "Update news history"
             git pull --rebase
             git push
