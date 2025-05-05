@@ -39,6 +39,8 @@ async function fetchFeedWithRetry(url: string, retries = 3): Promise<FeedItem[]>
   for (let i = 0; i < retries; i++) {
     try {
       console.log(`Fetching feed ${url} (attempt ${i + 1}/${retries})...`);
+      
+      // フィードの取得を試みる
       const feed = await parser.parseURL(url);
       
       if (!feed.items || feed.items.length === 0) {
@@ -77,12 +79,40 @@ async function fetchFeedWithRetry(url: string, retries = 3): Promise<FeedItem[]>
       return items;
     } catch (error) {
       console.error(`Error fetching feed ${url} (attempt ${i + 1}/${retries}):`, error);
-      if (i === retries - 1) {
-        console.error(`Failed to fetch feed ${url} after ${retries} attempts`);
-        return [];
+      
+      // 最後の試行でない場合は再試行
+      if (i < retries - 1) {
+        const delay = 1000 * Math.pow(2, i); // 指数バックオフ
+        console.log(`Retrying in ${delay}ms...`);
+        await new Promise(resolve => setTimeout(resolve, delay));
+        continue;
       }
-      // エラーの場合は少し待ってから再試行
-      await new Promise(resolve => setTimeout(resolve, 1000 * (i + 1)));
+      
+      // 最後の試行で失敗した場合
+      console.error(`Failed to fetch feed ${url} after ${retries} attempts`);
+      
+      // eyeondesign.aiga.orgの場合、代替のフィードURLを試す
+      if (url === 'https://eyeondesign.aiga.org/feed/') {
+        const alternativeUrl = 'https://eyeondesign.aiga.org/feed/rss/';
+        console.log(`Trying alternative feed URL: ${alternativeUrl}`);
+        try {
+          const alternativeFeed = await parser.parseURL(alternativeUrl);
+          if (alternativeFeed.items && alternativeFeed.items.length > 0) {
+            console.log(`Successfully fetched alternative feed with ${alternativeFeed.items.length} items`);
+            return alternativeFeed.items.map(item => ({
+              title: item.title || '',
+              link: item.link || '',
+              pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
+              content: item.content || item['content:encoded'] || item.description || '',
+              description: item.description
+            }));
+          }
+        } catch (altError) {
+          console.error(`Failed to fetch alternative feed: ${altError}`);
+        }
+      }
+      
+      return [];
     }
   }
   return [];
