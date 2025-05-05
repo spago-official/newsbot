@@ -11,16 +11,19 @@ const parser = new Parser({
       ['description', 'description'],
       ['dc:creator', 'author'],
       ['dc:date', 'pubDate'],
-    ],
+      ['atom:link', 'atomLink'],
+      ['media:content', 'mediaContent']
+    ]
   },
   headers: {
     'User-Agent': 'Mozilla/5.0 (compatible; DesignNewsBot/1.0)',
-    'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml',
+    'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*',
   },
   requestOptions: {
     agent: new https.Agent({
       rejectUnauthorized: false
-    })
+    }),
+    timeout: 10000
   }
 });
 
@@ -45,13 +48,32 @@ export async function fetchFeeds(feedUrls: string[]): Promise<FeedItem[]> {
         continue;
       }
 
-      const items = feed.items.map(item => ({
-        title: item.title || '',
-        link: item.link || '',
-        pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
-        content: item.content || item['content:encoded'] || item.description,
-        description: item.description
-      }));
+      const items = feed.items.map(item => {
+        // リンクの取得を改善
+        const link = item.link || 
+                    (item.atomLink && typeof item.atomLink === 'string' ? item.atomLink : '') ||
+                    (item.atomLink && typeof item.atomLink === 'object' && item.atomLink.href ? item.atomLink.href : '') ||
+                    '';
+
+        // 日付の取得を改善
+        const pubDate = item.pubDate || 
+                       item.isoDate || 
+                       new Date().toISOString();
+
+        // コンテンツの取得を改善
+        const content = item.content || 
+                       item['content:encoded'] || 
+                       item.description ||
+                       '';
+
+        return {
+          title: item.title || '',
+          link,
+          pubDate,
+          content,
+          description: item.description
+        };
+      });
 
       console.log(`Found ${items.length} items in feed ${url}`);
       allItems.push(...items);
