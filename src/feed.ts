@@ -35,17 +35,15 @@ export interface FeedItem {
   description?: string;
 }
 
-export async function fetchFeeds(feedUrls: string[]): Promise<FeedItem[]> {
-  const allItems: FeedItem[] = [];
-
-  for (const url of feedUrls) {
+async function fetchFeedWithRetry(url: string, retries = 3): Promise<FeedItem[]> {
+  for (let i = 0; i < retries; i++) {
     try {
-      console.log(`Fetching feed ${url}...`);
+      console.log(`Fetching feed ${url} (attempt ${i + 1}/${retries})...`);
       const feed = await parser.parseURL(url);
       
       if (!feed.items || feed.items.length === 0) {
         console.warn(`No items found in feed ${url}`);
-        continue;
+        return [];
       }
 
       const items = feed.items.map(item => {
@@ -76,12 +74,26 @@ export async function fetchFeeds(feedUrls: string[]): Promise<FeedItem[]> {
       });
 
       console.log(`Found ${items.length} items in feed ${url}`);
-      allItems.push(...items);
+      return items;
     } catch (error) {
-      console.error(`Error fetching feed ${url}:`, error);
-      // エラーが発生しても他のフィードの処理は続行
-      continue;
+      console.error(`Error fetching feed ${url} (attempt ${i + 1}/${retries}):`, error);
+      if (i === retries - 1) {
+        console.error(`Failed to fetch feed ${url} after ${retries} attempts`);
+        return [];
+      }
+      // エラーの場合は少し待ってから再試行
+      await new Promise(resolve => setTimeout(resolve, 1000 * (i + 1)));
     }
+  }
+  return [];
+}
+
+export async function fetchFeeds(feedUrls: string[]): Promise<FeedItem[]> {
+  const allItems: FeedItem[] = [];
+
+  for (const url of feedUrls) {
+    const items = await fetchFeedWithRetry(url);
+    allItems.push(...items);
   }
 
   return allItems;
