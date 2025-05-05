@@ -15,17 +15,14 @@
   "dependencies": {
     "@line/bot-sdk": "^7.5.2",
     "dotenv": "^16.4.5",
-    "node-summary": "^1.1.0",
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {
     "@types/node": "^20.17.32",
-    "@types/node-summary": "^1.1.1",
     "@typescript-eslint/eslint-plugin": "^7.1.0",
     "@typescript-eslint/parser": "^7.1.0",
     "eslint": "^8.57.0",
     "prettier": "^3.2.5",
-    "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   }
 }

@@ -1,4 +1,4 @@
-import { Client } from '@line/bot-sdk';
+import { Client, FlexMessage, FlexBubble, FlexBox, FlexText, FlexButton } from '@line/bot-sdk';
 import { config } from 'dotenv';
 import { FeedItem } from './feed.js';
 
@@ -16,7 +16,7 @@ export async function sendNews(items: Array<FeedItem & { summary: string }>): Pr
   }
 
   const messages = items.map(item => ({
-    type: 'flex',
+    type: 'flex' as const,
     altText: item.title,
     contents: {
       type: 'bubble',

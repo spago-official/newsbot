@@ -1,27 +1,21 @@
-import { summarize } from 'node-summary';
 import { FeedItem } from './feed.js';
+
+function extractFirstNSentences(text: string, n: number): string {
+  return text
+    .replace(/<[^>]*>/g, '') // HTMLタグを除去
+    .split(/[.!?。．！？]/) // 文で分割
+    .slice(0, n) // 最初のn文を取得
+    .join('. ') // 文を結合
+    .trim();
+}
 
 export async function summarizeArticle(item: FeedItem): Promise<string> {
   if (item.isEnglish) {
-    // 英語記事はTextRankで要約
-    return new Promise((resolve, reject) => {
-      summarize(item.content, (err: Error | null, summary: string) => {
-        if (err) {
-          console.error('Error summarizing English article:', err);
-          resolve(item.title); // エラー時はタイトルのみ返す
-        } else {
-          resolve(summary);
-        }
-      });
-    });
+    // 英語記事は最初の3文を抽出
+    return extractFirstNSentences(item.content, 3) || item.title;
   } else {
     // 日本語記事は先頭1文を抽出
-    const firstSentence = item.content
-      .replace(/<[^>]*>/g, '') // HTMLタグを除去
-      .split(/[。．！？]/)[0] // 最初の文を取得
-      .trim();
-    
-    return firstSentence || item.title;
+    return extractFirstNSentences(item.content, 1) || item.title;
   }
 }
 
