@@ -17,6 +17,7 @@ export class NewsHistoryManager {
 
   constructor() {
     this.history = { items: [] };
+    // リポジトリのルートディレクトリに保存
     this.historyPath = path.join(process.cwd(), HISTORY_FILE);
   }
 
@@ -24,7 +25,9 @@ export class NewsHistoryManager {
     try {
       const data = await fs.readFile(this.historyPath, 'utf-8');
       this.history = JSON.parse(data);
+      console.log('履歴ファイルを読み込みました:', this.historyPath);
     } catch (error) {
+      console.log('履歴ファイルが存在しないため、新規作成します:', this.historyPath);
       // ファイルが存在しない場合は新規作成
       this.history = { items: [] };
       await this.save();
@@ -32,13 +35,21 @@ export class NewsHistoryManager {
   }
 
   private async save(): Promise<void> {
-    await fs.writeFile(this.historyPath, JSON.stringify(this.history, null, 2));
+    try {
+      await fs.writeFile(this.historyPath, JSON.stringify(this.history, null, 2));
+      console.log('履歴ファイルを保存しました:', this.historyPath);
+    } catch (error) {
+      console.error('履歴ファイルの保存に失敗しました:', error);
+      throw error;
+    }
   }
 
   isAlreadySent(item: FeedItem): boolean {
-    return this.history.items.some(
+    const isSent = this.history.items.some(
       historyItem => historyItem.link === item.link
     );
+    console.log(`記事の重複チェック: ${item.link} - ${isSent ? '既に送信済み' : '未送信'}`);
+    return isSent;
   }
 
   async addToHistory(items: FeedItem[]): Promise<void> {
