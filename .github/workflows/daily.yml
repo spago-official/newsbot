@@ -22,19 +22,23 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0  # 全履歴を取得
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Git
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
+          git config --global --add safe.directory /home/runner/work/newsbot/newsbot
 
       - name: Initialize news history
         run: |
+          set -e
           if [ ! -f news_history.json ]; then
+            echo "Creating new news history file"
             echo '{"items":[]}' > news_history.json
             git add -f news_history.json
             git commit -m "Initialize news history file"
-            git push
+            git push origin main
           else
             echo "News history file exists"
             cat news_history.json
@@ -61,6 +65,8 @@ jobs:
 
       - name: Commit and push if changed
         run: |
+          set -e
+          echo "Checking for changes in news history"
           git add -f news_history.json
           if git diff --quiet && git diff --staged --quiet; then
             echo "No changes to commit"
@@ -69,6 +75,6 @@ jobs:
             git status
             git diff news_history.json
             git commit -m "Update news history"
-            git pull --rebase
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi 
