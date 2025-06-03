@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2505/04/news056.html",
-      "pubDate": "Sun, 04 May 2025 15:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/05/81772/",
-      "pubDate": "Sun, 04 May 2025 01:00:55 +0000"
-    },
-    {
       "link": "https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/",
       "pubDate": "Mon, 05 May 2025 10:00:00 GMT"
     },
@@ -651,6 +643,38 @@
     {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2506/02/news049.html",
       "pubDate": "Mon, 02 Jun 2025 13:40:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2506/04/news032.html",
+      "pubDate": "Wed, 04 Jun 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2506/04/news031.html",
+      "pubDate": "Wed, 04 Jun 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
+      "pubDate": "Tue, 03 Jun 2025 14:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/03/news115.html",
+      "pubDate": "Tue, 03 Jun 2025 17:44:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2506/03/news109.html",
+      "pubDate": "Tue, 03 Jun 2025 16:42:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/03/news106.html",
+      "pubDate": "Tue, 03 Jun 2025 16:25:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/03/news091.html",
+      "pubDate": "Tue, 03 Jun 2025 14:15:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/03/news073.html",
+      "pubDate": "Tue, 03 Jun 2025 12:47:00 +0900"
     }
   ]
 }
