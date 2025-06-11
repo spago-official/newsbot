@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2505/13/news115.html",
-      "pubDate": "Tue, 13 May 2025 07:45:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2505/13/news036.html",
-      "pubDate": "Tue, 13 May 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2505/12/news154.html",
-      "pubDate": "Mon, 12 May 2025 19:57:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/05/integrating-localization-into-design-systems/",
-      "pubDate": "Mon, 12 May 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2505/12/news140.html",
-      "pubDate": "Mon, 12 May 2025 18:20:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2505/12/news128.html",
-      "pubDate": "Mon, 12 May 2025 17:19:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2505/12/news080.html",
-      "pubDate": "Mon, 12 May 2025 14:45:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2505/12/news034.html",
-      "pubDate": "Mon, 12 May 2025 13:30:00 +0900"
-    },
-    {
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2505/14/news009.html",
       "pubDate": "Wed, 14 May 2025 05:00:00 +0900"
     },
@@ -735,6 +703,38 @@
     {
       "link": "https://www.japandesign.ne.jp/event/hiromuramasaaki-aquad/",
       "pubDate": "Tue, 10 Jun 2025 02:00:09 +0000"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2506/12/news004.html",
+      "pubDate": "Thu, 12 Jun 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2506/12/news054.html",
+      "pubDate": "Thu, 12 Jun 2025 06:52:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
+      "pubDate": "Wed, 11 Jun 2025 13:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/11/news110.html",
+      "pubDate": "Wed, 11 Jun 2025 17:49:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/11/news105.html",
+      "pubDate": "Wed, 11 Jun 2025 17:05:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/11/news102.html",
+      "pubDate": "Wed, 11 Jun 2025 16:20:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/06/82460/",
+      "pubDate": "Wed, 11 Jun 2025 03:00:17 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/11/news061.html",
+      "pubDate": "Wed, 11 Jun 2025 11:17:00 +0900"
     }
   ]
 }
