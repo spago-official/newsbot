@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/business/articles/2505/22/news084.html",
-      "pubDate": "Thu, 22 May 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2505/22/news072.html",
-      "pubDate": "Thu, 22 May 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2505/22/news067.html",
-      "pubDate": "Thu, 22 May 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2505/22/news096.html",
-      "pubDate": "Thu, 22 May 2025 06:44:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2505/21/news196.html",
-      "pubDate": "Wed, 21 May 2025 19:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2505/21/news191.html",
-      "pubDate": "Wed, 21 May 2025 18:06:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
-      "pubDate": "Wed, 21 May 2025 08:00:00 GMT"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/column/sawakun-202505/",
-      "pubDate": "Wed, 21 May 2025 05:45:06 +0000"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2505/23/news088.html",
       "pubDate": "Fri, 23 May 2025 07:00:00 +0900"
     },
@@ -735,6 +703,34 @@
     {
       "link": "https://www.itmedia.co.jp/news/articles/2506/19/news077.html",
       "pubDate": "Thu, 19 Jun 2025 12:40:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/20/news099.html",
+      "pubDate": "Fri, 20 Jun 2025 18:36:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/06/82606/",
+      "pubDate": "Fri, 20 Jun 2025 03:20:56 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/06/82536/",
+      "pubDate": "Fri, 20 Jun 2025 03:00:27 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/tool-and-a-person-stick-mediashop/",
+      "pubDate": "Fri, 20 Jun 2025 02:00:20 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/20/news062.html",
+      "pubDate": "Fri, 20 Jun 2025 10:58:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/quiet-vitality-arko-somewheretokyo/",
+      "pubDate": "Fri, 20 Jun 2025 01:00:54 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/go-for-kogei-2025/",
+      "pubDate": "Fri, 20 Jun 2025 00:15:16 +0000"
     }
   ]
 }
