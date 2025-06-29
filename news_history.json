@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2505/31/news041.html",
-      "pubDate": "Sat, 31 May 2025 06:40:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2505/30/news136.html",
-      "pubDate": "Fri, 30 May 2025 19:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2505/30/news130.html",
-      "pubDate": "Fri, 30 May 2025 17:36:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2505/30/news076.html",
-      "pubDate": "Fri, 30 May 2025 14:42:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2505/30/news106.html",
-      "pubDate": "Fri, 30 May 2025 13:32:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/designer/309_kobayashi_rio",
-      "pubDate": "Fri, 30 May 2025 03:00:34 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/05/82332/",
-      "pubDate": "Fri, 30 May 2025 03:00:20 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2505/29/news042.html",
-      "pubDate": "Fri, 30 May 2025 12:00:00 +0900"
-    },
-    {
       "link": "https://kn.itmedia.co.jp/kn/articles/2506/03/news035.html",
       "pubDate": "Tue, 03 Jun 2025 07:00:00 +0900"
     },
@@ -683,6 +651,18 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2506/28/news031.html",
       "pubDate": "Sat, 28 Jun 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2506/30/news053.html",
+      "pubDate": "Mon, 30 Jun 2025 06:15:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2506/30/news020.html",
+      "pubDate": "Mon, 30 Jun 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2506/29/news013.html",
+      "pubDate": "Sun, 29 Jun 2025 12:00:00 +0900"
     }
   ]
 }
