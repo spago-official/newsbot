@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://kn.itmedia.co.jp/kn/articles/2506/03/news035.html",
-      "pubDate": "Tue, 03 Jun 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2506/03/news012.html",
-      "pubDate": "Tue, 03 Jun 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/02/news109.html",
-      "pubDate": "Mon, 02 Jun 2025 18:55:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/02/news107.html",
-      "pubDate": "Mon, 02 Jun 2025 17:58:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/06/designing-for-neurodiversity/",
-      "pubDate": "Mon, 02 Jun 2025 08:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2505/31/news038.html",
-      "pubDate": "Mon, 02 Jun 2025 15:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/02/news073.html",
-      "pubDate": "Mon, 02 Jun 2025 14:02:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2506/02/news049.html",
-      "pubDate": "Mon, 02 Jun 2025 13:40:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2506/04/news032.html",
       "pubDate": "Wed, 04 Jun 2025 07:30:00 +0900"
     },
@@ -727,6 +695,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2507/01/news070.html",
       "pubDate": "Tue, 01 Jul 2025 12:20:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/03/news054.html",
+      "pubDate": "Thu, 03 Jul 2025 06:55:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/03/news053.html",
+      "pubDate": "Thu, 03 Jul 2025 06:37:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2507/02/news031.html",
+      "pubDate": "Thu, 03 Jul 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/03/news003.html",
+      "pubDate": "Thu, 03 Jul 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
+      "pubDate": "Wed, 02 Jul 2025 13:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/02/news051.html",
+      "pubDate": "Wed, 02 Jul 2025 17:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/02/news072.html",
+      "pubDate": "Wed, 02 Jul 2025 14:26:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/02/news060.html",
+      "pubDate": "Wed, 02 Jul 2025 12:45:00 +0900"
     }
   ]
 }
