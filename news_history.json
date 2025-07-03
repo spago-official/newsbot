@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2506/04/news032.html",
-      "pubDate": "Wed, 04 Jun 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2506/04/news031.html",
-      "pubDate": "Wed, 04 Jun 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
-      "pubDate": "Tue, 03 Jun 2025 14:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/03/news115.html",
-      "pubDate": "Tue, 03 Jun 2025 17:44:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2506/03/news109.html",
-      "pubDate": "Tue, 03 Jun 2025 16:42:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/03/news106.html",
-      "pubDate": "Tue, 03 Jun 2025 16:25:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/03/news091.html",
-      "pubDate": "Tue, 03 Jun 2025 14:15:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/03/news073.html",
-      "pubDate": "Tue, 03 Jun 2025 12:47:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2506/05/news058.html",
       "pubDate": "Thu, 05 Jun 2025 07:08:00 +0900"
     },
@@ -727,6 +695,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2507/02/news060.html",
       "pubDate": "Wed, 02 Jul 2025 12:45:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/04/news041.html",
+      "pubDate": "Fri, 04 Jul 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2507/04/news058.html",
+      "pubDate": "Fri, 04 Jul 2025 07:03:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/03/news113.html",
+      "pubDate": "Thu, 03 Jul 2025 19:51:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2507/03/news108.html",
+      "pubDate": "Thu, 03 Jul 2025 17:55:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2507/03/news040.html",
+      "pubDate": "Thu, 03 Jul 2025 17:00:00 +0900"
+    },
+    {
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2507/03/news032.html",
+      "pubDate": "Thu, 03 Jul 2025 15:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/03/news080.html",
+      "pubDate": "Thu, 03 Jul 2025 14:08:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/03/news085.html",
+      "pubDate": "Thu, 03 Jul 2025 13:41:00 +0900"
     }
   ]
 }
