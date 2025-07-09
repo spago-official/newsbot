@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.japandesign.ne.jp/event/between-black-white-stoop/",
-      "pubDate": "Mon, 09 Jun 2025 23:00:45 +0000"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2506/10/news024.html",
-      "pubDate": "Tue, 10 Jun 2025 05:30:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2506/10/news017.html",
-      "pubDate": "Tue, 10 Jun 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2506/09/news099.html",
-      "pubDate": "Mon, 09 Jun 2025 17:26:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
-      "pubDate": "Mon, 09 Jun 2025 08:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/09/news078.html",
-      "pubDate": "Mon, 09 Jun 2025 15:53:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/09/news077.html",
-      "pubDate": "Mon, 09 Jun 2025 14:36:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/06/82358/",
-      "pubDate": "Mon, 09 Jun 2025 03:00:38 +0000"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2506/10/news131.html",
       "pubDate": "Wed, 11 Jun 2025 07:00:00 +0900"
     },
@@ -723,6 +691,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2507/07/news019.html",
       "pubDate": "Tue, 08 Jul 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/06/news020.html",
+      "pubDate": "Thu, 10 Jul 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2507/10/news050.html",
+      "pubDate": "Thu, 10 Jul 2025 07:15:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2507/10/news007.html",
+      "pubDate": "Thu, 10 Jul 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2507/10/news003.html",
+      "pubDate": "Thu, 10 Jul 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2507/10/news057.html",
+      "pubDate": "Thu, 10 Jul 2025 06:15:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2507/10/news005.html",
+      "pubDate": "Thu, 10 Jul 2025 06:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/10/news013.html",
+      "pubDate": "Thu, 10 Jul 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/09/news119.html",
+      "pubDate": "Wed, 09 Jul 2025 19:04:00 +0900"
     }
   ]
 }
