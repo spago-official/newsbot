@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/10/news131.html",
-      "pubDate": "Wed, 11 Jun 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2506/11/news002.html",
-      "pubDate": "Wed, 11 Jun 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/10/news133.html",
-      "pubDate": "Tue, 10 Jun 2025 20:24:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/10/news114.html",
-      "pubDate": "Tue, 10 Jun 2025 15:43:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/10/news110.html",
-      "pubDate": "Tue, 10 Jun 2025 15:21:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/report/miran-dw-2025-alcova/",
-      "pubDate": "Tue, 10 Jun 2025 03:00:13 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/06/82468/",
-      "pubDate": "Tue, 10 Jun 2025 02:59:45 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/hiromuramasaaki-aquad/",
-      "pubDate": "Tue, 10 Jun 2025 02:00:09 +0000"
-    },
-    {
       "link": "https://monoist.itmedia.co.jp/mn/articles/2506/12/news004.html",
       "pubDate": "Thu, 12 Jun 2025 07:00:00 +0900"
     },
@@ -723,6 +691,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2507/09/news119.html",
       "pubDate": "Wed, 09 Jul 2025 19:04:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/11/news063.html",
+      "pubDate": "Fri, 11 Jul 2025 07:14:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2507/11/news023.html",
+      "pubDate": "Fri, 11 Jul 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/08/news004.html",
+      "pubDate": "Fri, 11 Jul 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2507/11/news062.html",
+      "pubDate": "Fri, 11 Jul 2025 06:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2507/11/news006.html",
+      "pubDate": "Fri, 11 Jul 2025 06:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/11/news019.html",
+      "pubDate": "Fri, 11 Jul 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/10/news128.html",
+      "pubDate": "Thu, 10 Jul 2025 19:52:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
+      "pubDate": "Thu, 10 Jul 2025 10:00:00 GMT"
     }
   ]
 }
