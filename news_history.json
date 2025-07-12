@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/12/news115.html",
-      "pubDate": "Thu, 12 Jun 2025 19:55:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2506/12/news110.html",
-      "pubDate": "Thu, 12 Jun 2025 17:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/12/news103.html",
-      "pubDate": "Thu, 12 Jun 2025 16:45:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2506/12/news097.html",
-      "pubDate": "Thu, 12 Jun 2025 15:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/12/news088.html",
-      "pubDate": "Thu, 12 Jun 2025 14:52:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/heralbony-art-prize-2025/",
-      "pubDate": "Thu, 12 Jun 2025 05:20:17 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/products/2025/06/81926/",
-      "pubDate": "Thu, 12 Jun 2025 05:15:23 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2506/12/news085.html",
-      "pubDate": "Thu, 12 Jun 2025 14:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2506/13/news119.html",
       "pubDate": "Fri, 13 Jun 2025 20:03:00 +0900"
     },
@@ -59,10 +27,6 @@
     {
       "link": "https://www.japandesign.ne.jp/news/2025/06/82077/",
       "pubDate": "Fri, 13 Jun 2025 00:00:39 +0000"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2506/13/news037.html",
-      "pubDate": "Fri, 13 Jun 2025 08:00:00 +0900"
     },
     {
       "link": "https://www.itmedia.co.jp/business/articles/2506/16/news039.html",
@@ -723,6 +687,10 @@
     {
       "link": "https://www.japandesign.ne.jp/event/gunma-ezu-d-department/",
       "pubDate": "Fri, 11 Jul 2025 02:00:00 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2507/13/news023.html",
+      "pubDate": "Sun, 13 Jul 2025 07:50:00 +0900"
     }
   ]
 }
