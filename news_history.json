@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/13/news119.html",
-      "pubDate": "Fri, 13 Jun 2025 20:03:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/13/news090.html",
-      "pubDate": "Fri, 13 Jun 2025 13:57:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/awazu-house-into-the-future/",
-      "pubDate": "Fri, 13 Jun 2025 04:50:38 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2506/13/news080.html",
-      "pubDate": "Fri, 13 Jun 2025 12:31:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/06/82464/",
-      "pubDate": "Fri, 13 Jun 2025 03:00:52 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/tanikawashuntaro-hobonichiyobi/",
-      "pubDate": "Fri, 13 Jun 2025 01:35:49 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/06/82077/",
-      "pubDate": "Fri, 13 Jun 2025 00:00:39 +0000"
-    },
-    {
       "link": "https://www.itmedia.co.jp/business/articles/2506/16/news039.html",
       "pubDate": "Mon, 16 Jun 2025 07:00:00 +0900"
     },
@@ -691,6 +663,18 @@
     {
       "link": "https://www.itmedia.co.jp/news/articles/2507/13/news023.html",
       "pubDate": "Sun, 13 Jul 2025 07:50:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/09/news015.html",
+      "pubDate": "Mon, 14 Jul 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2507/14/news050.html",
+      "pubDate": "Mon, 14 Jul 2025 06:52:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2507/14/news033.html",
+      "pubDate": "Mon, 14 Jul 2025 06:15:00 +0900"
     }
   ]
 }
