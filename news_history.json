@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2506/19/news050.html",
-      "pubDate": "Thu, 19 Jun 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2506/19/news035.html",
-      "pubDate": "Thu, 19 Jun 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2506/19/news027.html",
-      "pubDate": "Thu, 19 Jun 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2506/19/news018.html",
-      "pubDate": "Thu, 19 Jun 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2506/19/news008.html",
-      "pubDate": "Thu, 19 Jun 2025 06:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/19/news056.html",
-      "pubDate": "Thu, 19 Jun 2025 05:48:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2506/19/news002.html",
-      "pubDate": "Thu, 19 Jun 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/",
-      "pubDate": "Wed, 18 Jun 2025 16:00:00 GMT"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2506/20/news054.html",
       "pubDate": "Fri, 20 Jun 2025 07:04:00 +0900"
     },
@@ -731,6 +699,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2507/17/news095.html",
       "pubDate": "Thu, 17 Jul 2025 15:16:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/19/news021.html",
+      "pubDate": "Sat, 19 Jul 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
+      "pubDate": "Fri, 18 Jul 2025 13:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/18/news096.html",
+      "pubDate": "Fri, 18 Jul 2025 16:20:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/07/83152/",
+      "pubDate": "Fri, 18 Jul 2025 04:00:27 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/07/83087/",
+      "pubDate": "Fri, 18 Jul 2025 03:00:12 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/18/news069.html",
+      "pubDate": "Fri, 18 Jul 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/18/news068.html",
+      "pubDate": "Fri, 18 Jul 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/naito-hiroshi-rinri-jpn/",
+      "pubDate": "Fri, 18 Jul 2025 00:25:16 +0000"
     }
   ]
 }
