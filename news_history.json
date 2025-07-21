@@ -1,66 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/20/news054.html",
-      "pubDate": "Fri, 20 Jun 2025 07:04:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/19/news110.html",
-      "pubDate": "Fri, 20 Jun 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2506/20/news022.html",
-      "pubDate": "Fri, 20 Jun 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
-      "pubDate": "Thu, 19 Jun 2025 15:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/19/news100.html",
-      "pubDate": "Thu, 19 Jun 2025 15:59:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/19/news073.html",
-      "pubDate": "Thu, 19 Jun 2025 15:38:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2506/19/news085.html",
-      "pubDate": "Thu, 19 Jun 2025 13:53:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2506/19/news077.html",
-      "pubDate": "Thu, 19 Jun 2025 12:40:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/20/news099.html",
-      "pubDate": "Fri, 20 Jun 2025 18:36:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/06/82606/",
-      "pubDate": "Fri, 20 Jun 2025 03:20:56 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/06/82536/",
-      "pubDate": "Fri, 20 Jun 2025 03:00:27 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/tool-and-a-person-stick-mediashop/",
-      "pubDate": "Fri, 20 Jun 2025 02:00:20 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/20/news062.html",
-      "pubDate": "Fri, 20 Jun 2025 10:58:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/quiet-vitality-arko-somewheretokyo/",
-      "pubDate": "Fri, 20 Jun 2025 01:00:54 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/go-for-kogei-2025/",
-      "pubDate": "Fri, 20 Jun 2025 00:15:16 +0000"
-    },
-    {
       "link": "https://www.itmedia.co.jp/business/articles/2506/23/news010.html",
       "pubDate": "Mon, 23 Jun 2025 07:00:00 +0900"
     },
@@ -731,6 +671,30 @@
     {
       "link": "https://www.japandesign.ne.jp/event/naito-hiroshi-rinri-jpn/",
       "pubDate": "Fri, 18 Jul 2025 00:25:16 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/yanase-takashi-museum-ekikyoto/",
+      "pubDate": "Mon, 21 Jul 2025 23:10:49 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/louisvuitton-nakka-art/",
+      "pubDate": "Mon, 21 Jul 2025 23:10:37 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/14/news003.html",
+      "pubDate": "Tue, 22 Jul 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/22/news019.html",
+      "pubDate": "Tue, 22 Jul 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
+      "pubDate": "Mon, 21 Jul 2025 10:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/21/news020.html",
+      "pubDate": "Mon, 21 Jul 2025 12:00:00 +0900"
     }
   ]
 }
