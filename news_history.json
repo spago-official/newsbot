@@ -1,10 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/business/articles/2506/23/news010.html",
-      "pubDate": "Mon, 23 Jun 2025 07:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2506/24/news053.html",
       "pubDate": "Tue, 24 Jun 2025 07:00:00 +0900"
     },
@@ -695,6 +691,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2507/21/news020.html",
       "pubDate": "Mon, 21 Jul 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/15/news002.html",
+      "pubDate": "Wed, 23 Jul 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/23/news018.html",
+      "pubDate": "Wed, 23 Jul 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/23/news006.html",
+      "pubDate": "Wed, 23 Jul 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/22/news099.html",
+      "pubDate": "Tue, 22 Jul 2025 17:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/18/news023.html",
+      "pubDate": "Tue, 22 Jul 2025 15:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2507/22/news090.html",
+      "pubDate": "Tue, 22 Jul 2025 14:56:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/22/news074.html",
+      "pubDate": "Tue, 22 Jul 2025 14:13:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/interview/tanseitdc-yoshizato-1/",
+      "pubDate": "Tue, 22 Jul 2025 03:10:12 +0000"
     }
   ]
 }
