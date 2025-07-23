@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/24/news053.html",
-      "pubDate": "Tue, 24 Jun 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2506/24/news018.html",
-      "pubDate": "Tue, 24 Jun 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2506/24/news014.html",
-      "pubDate": "Tue, 24 Jun 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/23/news098.html",
-      "pubDate": "Mon, 23 Jun 2025 19:11:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
-      "pubDate": "Mon, 23 Jun 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/23/news094.html",
-      "pubDate": "Mon, 23 Jun 2025 18:59:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2506/23/news093.html",
-      "pubDate": "Mon, 23 Jun 2025 17:27:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2506/23/news064.html",
-      "pubDate": "Mon, 23 Jun 2025 16:00:00 +0900"
-    },
-    {
       "link": "https://www.japandesign.ne.jp/news/2025/06/82769/",
       "pubDate": "Tue, 24 Jun 2025 04:00:49 +0000"
     },
@@ -47,10 +15,6 @@
     {
       "link": "https://monoist.itmedia.co.jp/mn/articles/2506/24/news035.html",
       "pubDate": "Tue, 24 Jun 2025 09:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2506/24/news019.html",
-      "pubDate": "Tue, 24 Jun 2025 08:00:00 +0900"
     },
     {
       "link": "https://www.itmedia.co.jp/business/articles/2506/25/news114.html",
@@ -723,6 +687,38 @@
     {
       "link": "https://www.japandesign.ne.jp/interview/tanseitdc-yoshizato-1/",
       "pubDate": "Tue, 22 Jul 2025 03:10:12 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/23/news081.html",
+      "pubDate": "Wed, 23 Jul 2025 13:35:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/07/83113/",
+      "pubDate": "Wed, 23 Jul 2025 03:00:21 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/22/news112.html",
+      "pubDate": "Wed, 23 Jul 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/the-metabolic-rift-project-ycam/",
+      "pubDate": "Wed, 23 Jul 2025 02:00:29 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/forest-symphony-joeiji/",
+      "pubDate": "Wed, 23 Jul 2025 01:00:59 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/07/82635/",
+      "pubDate": "Wed, 23 Jul 2025 00:00:51 +0000"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2507/23/news033.html",
+      "pubDate": "Wed, 23 Jul 2025 09:00:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/jagda-2025-ggg/",
+      "pubDate": "Tue, 22 Jul 2025 23:35:09 +0000"
     }
   ]
 }
