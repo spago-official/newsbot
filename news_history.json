@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.japandesign.ne.jp/news/2025/06/82769/",
-      "pubDate": "Tue, 24 Jun 2025 04:00:49 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2506/24/news082.html",
-      "pubDate": "Tue, 24 Jun 2025 13:00:00 +0900"
-    },
-    {
-      "link": "https://kn.itmedia.co.jp/kn/articles/2506/24/news026.html",
-      "pubDate": "Tue, 24 Jun 2025 10:00:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2506/24/news035.html",
-      "pubDate": "Tue, 24 Jun 2025 09:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/business/articles/2506/25/news114.html",
       "pubDate": "Thu, 26 Jun 2025 07:00:00 +0900"
     },
@@ -719,6 +703,34 @@
     {
       "link": "https://www.japandesign.ne.jp/event/jagda-2025-ggg/",
       "pubDate": "Tue, 22 Jul 2025 23:35:09 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/17/news007.html",
+      "pubDate": "Fri, 25 Jul 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/24/news106.html",
+      "pubDate": "Thu, 24 Jul 2025 18:23:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/24/news083.html",
+      "pubDate": "Thu, 24 Jul 2025 14:27:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/07/82919/",
+      "pubDate": "Thu, 24 Jul 2025 03:00:24 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/24/news054.html",
+      "pubDate": "Thu, 24 Jul 2025 08:41:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/24/news053.html",
+      "pubDate": "Thu, 24 Jul 2025 08:26:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/24/news035.html",
+      "pubDate": "Thu, 24 Jul 2025 08:00:00 +0900"
     }
   ]
 }
