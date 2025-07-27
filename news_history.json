@@ -1,42 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2506/28/news035.html",
-      "pubDate": "Sat, 28 Jun 2025 06:48:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/27/news088.html",
-      "pubDate": "Fri, 27 Jun 2025 16:26:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/27/news068.html",
-      "pubDate": "Fri, 27 Jun 2025 12:22:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/27/news018.html",
-      "pubDate": "Fri, 27 Jun 2025 12:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2506/27/news061.html",
-      "pubDate": "Fri, 27 Jun 2025 11:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2506/27/news059.html",
-      "pubDate": "Fri, 27 Jun 2025 11:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/06/82103/",
-      "pubDate": "Fri, 27 Jun 2025 00:00:05 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/27/news057.html",
-      "pubDate": "Fri, 27 Jun 2025 08:49:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/28/news031.html",
-      "pubDate": "Sat, 28 Jun 2025 08:00:00 +0900"
-    },
-    {
       "link": "https://monoist.itmedia.co.jp/mn/articles/2506/30/news053.html",
       "pubDate": "Mon, 30 Jun 2025 06:15:00 +0900"
     },
@@ -707,6 +671,18 @@
     {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2507/25/news083.html",
       "pubDate": "Sat, 26 Jul 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/18/news010.html",
+      "pubDate": "Mon, 28 Jul 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/28/news016.html",
+      "pubDate": "Mon, 28 Jul 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2507/27/news019.html",
+      "pubDate": "Sun, 27 Jul 2025 08:06:00 +0900"
     }
   ]
 }
