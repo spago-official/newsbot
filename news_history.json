@@ -1,18 +1,6 @@
 {
   "items": [
     {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2506/30/news053.html",
-      "pubDate": "Mon, 30 Jun 2025 06:15:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2506/30/news020.html",
-      "pubDate": "Mon, 30 Jun 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2506/29/news013.html",
-      "pubDate": "Sun, 29 Jun 2025 12:00:00 +0900"
-    },
-    {
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/01/news015.html",
       "pubDate": "Tue, 01 Jul 2025 05:00:00 +0900"
     },
@@ -715,6 +703,38 @@
     {
       "link": "https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/",
       "pubDate": "Mon, 28 Jul 2025 08:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/30/news040.html",
+      "pubDate": "Wed, 30 Jul 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2507/30/news020.html",
+      "pubDate": "Wed, 30 Jul 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2507/30/news027.html",
+      "pubDate": "Wed, 30 Jul 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/30/news053.html",
+      "pubDate": "Wed, 30 Jul 2025 06:59:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/gabybazin-ichigaya-letterpress/",
+      "pubDate": "Tue, 29 Jul 2025 08:15:50 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/naitohiroshi-shibuyastream/",
+      "pubDate": "Tue, 29 Jul 2025 08:10:48 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/29/news058.html",
+      "pubDate": "Tue, 29 Jul 2025 16:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/29/news065.html",
+      "pubDate": "Tue, 29 Jul 2025 12:05:00 +0900"
     }
   ]
 }
