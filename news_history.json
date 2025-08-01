@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/03/news054.html",
-      "pubDate": "Thu, 03 Jul 2025 06:55:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/03/news053.html",
-      "pubDate": "Thu, 03 Jul 2025 06:37:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2507/02/news031.html",
-      "pubDate": "Thu, 03 Jul 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/03/news003.html",
-      "pubDate": "Thu, 03 Jul 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
-      "pubDate": "Wed, 02 Jul 2025 13:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/02/news051.html",
-      "pubDate": "Wed, 02 Jul 2025 17:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/02/news072.html",
-      "pubDate": "Wed, 02 Jul 2025 14:26:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/02/news060.html",
-      "pubDate": "Wed, 02 Jul 2025 12:45:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2507/04/news041.html",
       "pubDate": "Fri, 04 Jul 2025 07:30:00 +0900"
     },
@@ -735,6 +703,38 @@
     {
       "link": "https://www.japandesign.ne.jp/column/souieba202507/",
       "pubDate": "Thu, 31 Jul 2025 04:00:02 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/02/news026.html",
+      "pubDate": "Sat, 02 Aug 2025 07:35:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/01/news102.html",
+      "pubDate": "Fri, 01 Aug 2025 17:57:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/08/83401/",
+      "pubDate": "Fri, 01 Aug 2025 03:00:11 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/31/news087.html",
+      "pubDate": "Fri, 01 Aug 2025 11:45:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/01/news058.html",
+      "pubDate": "Fri, 01 Aug 2025 09:25:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/08/83178/",
+      "pubDate": "Fri, 01 Aug 2025 00:00:40 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/01/news046.html",
+      "pubDate": "Fri, 01 Aug 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2508/01/news043.html",
+      "pubDate": "Fri, 01 Aug 2025 08:00:00 +0900"
     }
   ]
 }
