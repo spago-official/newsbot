@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2507/07/news037.html",
-      "pubDate": "Mon, 07 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/03/news059.html",
-      "pubDate": "Mon, 07 Jul 2025 05:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/business/articles/2507/08/news030.html",
       "pubDate": "Tue, 08 Jul 2025 07:00:00 +0900"
     },
@@ -719,6 +711,38 @@
     {
       "link": "https://www.japandesign.ne.jp/news/2025/08/83180/",
       "pubDate": "Mon, 04 Aug 2025 00:00:04 +0000"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2508/06/news058.html",
+      "pubDate": "Wed, 06 Aug 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/06/news065.html",
+      "pubDate": "Wed, 06 Aug 2025 06:46:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/06/news014.html",
+      "pubDate": "Wed, 06 Aug 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/06/news063.html",
+      "pubDate": "Wed, 06 Aug 2025 03:43:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/06/news061.html",
+      "pubDate": "Wed, 06 Aug 2025 02:38:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/08/ux-job-interview-helpers/",
+      "pubDate": "Tue, 05 Aug 2025 13:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2508/05/news100.html",
+      "pubDate": "Tue, 05 Aug 2025 18:15:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/05/news099.html",
+      "pubDate": "Tue, 05 Aug 2025 18:02:00 +0900"
     }
   ]
 }
