@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/business/articles/2507/09/news046.html",
-      "pubDate": "Wed, 09 Jul 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/07/modern-website-builder-wordpress-droip/",
-      "pubDate": "Tue, 08 Jul 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/08/news127.html",
-      "pubDate": "Tue, 08 Jul 2025 18:34:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/08/news122.html",
-      "pubDate": "Tue, 08 Jul 2025 17:16:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/08/news092.html",
-      "pubDate": "Tue, 08 Jul 2025 13:17:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/08/news093.html",
-      "pubDate": "Tue, 08 Jul 2025 12:45:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/07/82918/",
-      "pubDate": "Tue, 08 Jul 2025 03:00:18 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/07/news019.html",
-      "pubDate": "Tue, 08 Jul 2025 12:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2506/06/news020.html",
       "pubDate": "Thu, 10 Jul 2025 07:30:00 +0900"
     },
@@ -743,6 +711,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2508/06/news076.html",
       "pubDate": "Wed, 06 Aug 2025 12:18:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2508/08/news031.html",
+      "pubDate": "Fri, 08 Aug 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2508/08/news008.html",
+      "pubDate": "Fri, 08 Aug 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/08/news054.html",
+      "pubDate": "Fri, 08 Aug 2025 02:45:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/08/news053.html",
+      "pubDate": "Fri, 08 Aug 2025 02:26:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/08/83467/",
+      "pubDate": "Thu, 07 Aug 2025 03:00:03 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/07/news013.html",
+      "pubDate": "Thu, 07 Aug 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2508/07/news071.html",
+      "pubDate": "Thu, 07 Aug 2025 11:37:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/lwrighte-ofsgallery/",
+      "pubDate": "Thu, 07 Aug 2025 02:00:02 +0000"
     }
   ]
 }
