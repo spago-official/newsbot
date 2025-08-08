@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/06/news020.html",
-      "pubDate": "Thu, 10 Jul 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2507/10/news050.html",
-      "pubDate": "Thu, 10 Jul 2025 07:15:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2507/10/news007.html",
-      "pubDate": "Thu, 10 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2507/10/news003.html",
-      "pubDate": "Thu, 10 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2507/10/news057.html",
-      "pubDate": "Thu, 10 Jul 2025 06:15:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2507/10/news005.html",
-      "pubDate": "Thu, 10 Jul 2025 06:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/10/news013.html",
-      "pubDate": "Thu, 10 Jul 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/09/news119.html",
-      "pubDate": "Wed, 09 Jul 2025 19:04:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2507/11/news063.html",
       "pubDate": "Fri, 11 Jul 2025 07:14:00 +0900"
     },
@@ -743,6 +711,38 @@
     {
       "link": "https://www.japandesign.ne.jp/event/lwrighte-ofsgallery/",
       "pubDate": "Thu, 07 Aug 2025 02:00:02 +0000"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/",
+      "pubDate": "Fri, 08 Aug 2025 10:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/08/news091.html",
+      "pubDate": "Fri, 08 Aug 2025 18:19:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/shimadarie-kyoto-tsutaya/",
+      "pubDate": "Fri, 08 Aug 2025 06:40:00 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/08/83469/",
+      "pubDate": "Fri, 08 Aug 2025 03:00:20 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2508/08/news070.html",
+      "pubDate": "Fri, 08 Aug 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/korogaruashobi-yamaguchiizutsuya/",
+      "pubDate": "Fri, 08 Aug 2025 02:00:53 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/interview/ahneo-satotaku-1/",
+      "pubDate": "Fri, 08 Aug 2025 01:35:18 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/interview/ahneo-satotaku-2/",
+      "pubDate": "Fri, 08 Aug 2025 01:34:19 +0000"
     }
   ]
 }
