@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/11/news063.html",
-      "pubDate": "Fri, 11 Jul 2025 07:14:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2507/11/news023.html",
-      "pubDate": "Fri, 11 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/08/news004.html",
-      "pubDate": "Fri, 11 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2507/11/news062.html",
-      "pubDate": "Fri, 11 Jul 2025 06:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2507/11/news006.html",
-      "pubDate": "Fri, 11 Jul 2025 06:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/11/news019.html",
-      "pubDate": "Fri, 11 Jul 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/10/news128.html",
-      "pubDate": "Thu, 10 Jul 2025 19:52:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
-      "pubDate": "Thu, 10 Jul 2025 10:00:00 GMT"
-    },
-    {
       "link": "https://www.itmedia.co.jp/news/articles/2507/11/news104.html",
       "pubDate": "Fri, 11 Jul 2025 16:46:00 +0900"
     },
@@ -743,6 +711,18 @@
     {
       "link": "https://www.japandesign.ne.jp/interview/ahneo-satotaku-2/",
       "pubDate": "Fri, 08 Aug 2025 01:34:19 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2508/10/news015.html",
+      "pubDate": "Sun, 10 Aug 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/09/news031.html",
+      "pubDate": "Sat, 09 Aug 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2508/09/news020.html",
+      "pubDate": "Sat, 09 Aug 2025 08:00:00 +0900"
     }
   ]
 }
