@@ -1,42 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/11/news104.html",
-      "pubDate": "Fri, 11 Jul 2025 16:46:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/11/news100.html",
-      "pubDate": "Fri, 11 Jul 2025 16:39:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/30th-anniversary-kmopa/",
-      "pubDate": "Fri, 11 Jul 2025 07:10:54 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/11/news094.html",
-      "pubDate": "Fri, 11 Jul 2025 15:23:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/11/news085.html",
-      "pubDate": "Fri, 11 Jul 2025 13:45:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/07/83021/",
-      "pubDate": "Fri, 11 Jul 2025 03:00:49 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/11/news072.html",
-      "pubDate": "Fri, 11 Jul 2025 11:18:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/gunma-ezu-d-department/",
-      "pubDate": "Fri, 11 Jul 2025 02:00:00 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/13/news023.html",
-      "pubDate": "Sun, 13 Jul 2025 07:50:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2506/09/news015.html",
       "pubDate": "Mon, 14 Jul 2025 07:00:00 +0900"
     },
@@ -723,6 +687,22 @@
     {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2508/09/news020.html",
       "pubDate": "Sat, 09 Aug 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2508/12/news034.html",
+      "pubDate": "Tue, 12 Aug 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2508/12/news017.html",
+      "pubDate": "Tue, 12 Aug 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
+      "pubDate": "Mon, 11 Aug 2025 08:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/01/news010.html",
+      "pubDate": "Mon, 11 Aug 2025 12:00:00 +0900"
     }
   ]
 }
