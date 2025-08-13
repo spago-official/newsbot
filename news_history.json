@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/15/news051.html",
-      "pubDate": "Tue, 15 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/10/news015.html",
-      "pubDate": "Tue, 15 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/15/news057.html",
-      "pubDate": "Tue, 15 Jul 2025 06:53:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/15/news016.html",
-      "pubDate": "Tue, 15 Jul 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/",
-      "pubDate": "Mon, 14 Jul 2025 15:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/14/news109.html",
-      "pubDate": "Mon, 14 Jul 2025 18:42:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/14/news108.html",
-      "pubDate": "Mon, 14 Jul 2025 18:19:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/14/news069.html",
-      "pubDate": "Mon, 14 Jul 2025 17:25:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2507/16/news041.html",
       "pubDate": "Wed, 16 Jul 2025 07:30:00 +0900"
     },
@@ -723,6 +691,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2508/12/news031.html",
       "pubDate": "Tue, 12 Aug 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2508/14/news026.html",
+      "pubDate": "Thu, 14 Aug 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
+      "pubDate": "Wed, 13 Aug 2025 11:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/13/news099.html",
+      "pubDate": "Wed, 13 Aug 2025 17:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/13/news075.html",
+      "pubDate": "Wed, 13 Aug 2025 16:01:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2508/13/news089.html",
+      "pubDate": "Wed, 13 Aug 2025 16:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/13/news080.html",
+      "pubDate": "Wed, 13 Aug 2025 13:45:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/08/83498/",
+      "pubDate": "Wed, 13 Aug 2025 03:00:03 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2508/13/news065.html",
+      "pubDate": "Wed, 13 Aug 2025 11:54:00 +0900"
     }
   ]
 }
