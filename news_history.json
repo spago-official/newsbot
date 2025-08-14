@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/16/news041.html",
-      "pubDate": "Wed, 16 Jul 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/11/news022.html",
-      "pubDate": "Wed, 16 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/15/news122.html",
-      "pubDate": "Tue, 15 Jul 2025 19:45:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/15/news108.html",
-      "pubDate": "Tue, 15 Jul 2025 17:24:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/15/news096.html",
-      "pubDate": "Tue, 15 Jul 2025 14:47:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/15/news086.html",
-      "pubDate": "Tue, 15 Jul 2025 13:01:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/15/news083.html",
-      "pubDate": "Tue, 15 Jul 2025 12:47:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/07/83034/",
-      "pubDate": "Tue, 15 Jul 2025 03:00:00 +0000"
-    },
-    {
       "link": "https://www.itmedia.co.jp/news/articles/2507/17/news060.html",
       "pubDate": "Thu, 17 Jul 2025 07:50:00 +0900"
     },
@@ -723,6 +691,38 @@
     {
       "link": "https://www.itmedia.co.jp/news/articles/2508/13/news065.html",
       "pubDate": "Wed, 13 Aug 2025 11:54:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/14/news101.html",
+      "pubDate": "Thu, 14 Aug 2025 18:49:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/studioanettai-prismic-gallery/",
+      "pubDate": "Thu, 14 Aug 2025 08:10:16 +0000"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/14/news076.html",
+      "pubDate": "Thu, 14 Aug 2025 17:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/14/news079.html",
+      "pubDate": "Thu, 14 Aug 2025 13:20:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2508/14/news077.html",
+      "pubDate": "Thu, 14 Aug 2025 12:45:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/08/83525/",
+      "pubDate": "Thu, 14 Aug 2025 03:00:19 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/14/news033.html",
+      "pubDate": "Thu, 14 Aug 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/yamamotoriken-yokosuka-moa/",
+      "pubDate": "Thu, 14 Aug 2025 00:35:55 +0000"
     }
   ]
 }
