@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/17/news060.html",
-      "pubDate": "Thu, 17 Jul 2025 07:50:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/17/news024.html",
-      "pubDate": "Thu, 17 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/17/news059.html",
-      "pubDate": "Thu, 17 Jul 2025 06:47:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/",
-      "pubDate": "Wed, 16 Jul 2025 15:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/16/news110.html",
-      "pubDate": "Wed, 16 Jul 2025 16:44:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/16/news099.html",
-      "pubDate": "Wed, 16 Jul 2025 15:54:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2507/16/news088.html",
-      "pubDate": "Wed, 16 Jul 2025 14:19:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/interview/musabi-arc-vw-1/",
-      "pubDate": "Wed, 16 Jul 2025 04:40:29 +0000"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2507/18/news041.html",
       "pubDate": "Fri, 18 Jul 2025 07:30:00 +0900"
     },
@@ -723,6 +691,38 @@
     {
       "link": "https://www.japandesign.ne.jp/event/yamamotoriken-yokosuka-moa/",
       "pubDate": "Thu, 14 Aug 2025 00:35:55 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/16/news034.html",
+      "pubDate": "Sat, 16 Aug 2025 07:23:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/08/psychology-color-ux-design-digital-products/",
+      "pubDate": "Fri, 15 Aug 2025 15:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/15/news090.html",
+      "pubDate": "Fri, 15 Aug 2025 19:10:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/15/news086.html",
+      "pubDate": "Fri, 15 Aug 2025 17:04:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/15/news081.html",
+      "pubDate": "Fri, 15 Aug 2025 16:25:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/valueexpo-amagasaki-rekishimuseum/",
+      "pubDate": "Fri, 15 Aug 2025 06:05:36 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/08/83523/",
+      "pubDate": "Fri, 15 Aug 2025 03:00:24 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/kitagawaraatsushi-nakamura-haring/",
+      "pubDate": "Fri, 15 Aug 2025 01:30:09 +0000"
     }
   ]
 }
