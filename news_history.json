@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/18/news041.html",
-      "pubDate": "Fri, 18 Jul 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/18/news056.html",
-      "pubDate": "Fri, 18 Jul 2025 07:22:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/18/news019.html",
-      "pubDate": "Fri, 18 Jul 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/18/news053.html",
-      "pubDate": "Fri, 18 Jul 2025 02:37:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/17/news109.html",
-      "pubDate": "Thu, 17 Jul 2025 17:48:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/17/news110.html",
-      "pubDate": "Thu, 17 Jul 2025 17:17:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/17/news096.html",
-      "pubDate": "Thu, 17 Jul 2025 15:24:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/17/news095.html",
-      "pubDate": "Thu, 17 Jul 2025 15:16:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2507/19/news021.html",
       "pubDate": "Sat, 19 Jul 2025 07:00:00 +0900"
     },
@@ -723,6 +691,10 @@
     {
       "link": "https://www.japandesign.ne.jp/event/kitagawaraatsushi-nakamura-haring/",
       "pubDate": "Fri, 15 Aug 2025 01:30:09 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/17/news021.html",
+      "pubDate": "Sun, 17 Aug 2025 07:33:00 +0900"
     }
   ]
 }
