@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/19/news021.html",
-      "pubDate": "Sat, 19 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
-      "pubDate": "Fri, 18 Jul 2025 13:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/18/news096.html",
-      "pubDate": "Fri, 18 Jul 2025 16:20:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/07/83152/",
-      "pubDate": "Fri, 18 Jul 2025 04:00:27 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/07/83087/",
-      "pubDate": "Fri, 18 Jul 2025 03:00:12 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/18/news069.html",
-      "pubDate": "Fri, 18 Jul 2025 12:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/18/news068.html",
-      "pubDate": "Fri, 18 Jul 2025 12:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/naito-hiroshi-rinri-jpn/",
-      "pubDate": "Fri, 18 Jul 2025 00:25:16 +0000"
-    },
-    {
       "link": "https://www.japandesign.ne.jp/event/yanase-takashi-museum-ekikyoto/",
       "pubDate": "Mon, 21 Jul 2025 23:10:49 +0000"
     },
@@ -695,6 +663,18 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2508/17/news021.html",
       "pubDate": "Sun, 17 Aug 2025 07:33:00 +0900"
+    },
+    {
+      "link": "https://kn.itmedia.co.jp/kn/articles/2508/18/news038.html",
+      "pubDate": "Mon, 18 Aug 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2508/18/news024.html",
+      "pubDate": "Mon, 18 Aug 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2508/18/news008.html",
+      "pubDate": "Mon, 18 Aug 2025 07:00:00 +0900"
     }
   ]
 }
