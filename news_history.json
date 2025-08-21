@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/15/news002.html",
-      "pubDate": "Wed, 23 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/23/news018.html",
-      "pubDate": "Wed, 23 Jul 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/23/news006.html",
-      "pubDate": "Wed, 23 Jul 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/22/news099.html",
-      "pubDate": "Tue, 22 Jul 2025 17:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/18/news023.html",
-      "pubDate": "Tue, 22 Jul 2025 15:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/22/news090.html",
-      "pubDate": "Tue, 22 Jul 2025 14:56:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/22/news074.html",
-      "pubDate": "Tue, 22 Jul 2025 14:13:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/interview/tanseitdc-yoshizato-1/",
-      "pubDate": "Tue, 22 Jul 2025 03:10:12 +0000"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2507/23/news081.html",
       "pubDate": "Wed, 23 Jul 2025 13:35:00 +0900"
     },
@@ -735,6 +703,38 @@
     {
       "link": "https://www.japandesign.ne.jp/news/2025/08/83596/",
       "pubDate": "Wed, 20 Aug 2025 03:00:50 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2508/22/news067.html",
+      "pubDate": "Fri, 22 Aug 2025 07:25:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2508/22/news065.html",
+      "pubDate": "Fri, 22 Aug 2025 06:15:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/22/news016.html",
+      "pubDate": "Fri, 22 Aug 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/21/news131.html",
+      "pubDate": "Thu, 21 Aug 2025 19:20:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/21/news123.html",
+      "pubDate": "Thu, 21 Aug 2025 17:18:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/goodprinter-2121designsight/",
+      "pubDate": "Thu, 21 Aug 2025 06:10:06 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/21/news105.html",
+      "pubDate": "Thu, 21 Aug 2025 14:23:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/21/news095.html",
+      "pubDate": "Thu, 21 Aug 2025 13:01:00 +0900"
     }
   ]
 }
