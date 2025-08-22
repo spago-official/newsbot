@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/23/news081.html",
-      "pubDate": "Wed, 23 Jul 2025 13:35:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/07/83113/",
-      "pubDate": "Wed, 23 Jul 2025 03:00:21 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/22/news112.html",
-      "pubDate": "Wed, 23 Jul 2025 12:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/the-metabolic-rift-project-ycam/",
-      "pubDate": "Wed, 23 Jul 2025 02:00:29 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/forest-symphony-joeiji/",
-      "pubDate": "Wed, 23 Jul 2025 01:00:59 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/07/82635/",
-      "pubDate": "Wed, 23 Jul 2025 00:00:51 +0000"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2507/23/news033.html",
-      "pubDate": "Wed, 23 Jul 2025 09:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/jagda-2025-ggg/",
-      "pubDate": "Tue, 22 Jul 2025 23:35:09 +0000"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2506/17/news007.html",
       "pubDate": "Fri, 25 Jul 2025 07:00:00 +0900"
     },
@@ -55,10 +23,6 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2507/24/news053.html",
       "pubDate": "Thu, 24 Jul 2025 08:26:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/24/news035.html",
-      "pubDate": "Thu, 24 Jul 2025 08:00:00 +0900"
     },
     {
       "link": "https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/",
@@ -735,6 +699,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2508/21/news095.html",
       "pubDate": "Thu, 21 Aug 2025 13:01:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/22/news117.html",
+      "pubDate": "Fri, 22 Aug 2025 19:30:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/22/news124.html",
+      "pubDate": "Fri, 22 Aug 2025 19:22:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/22/news114.html",
+      "pubDate": "Fri, 22 Aug 2025 18:04:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
+      "pubDate": "Fri, 22 Aug 2025 08:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/22/news099.html",
+      "pubDate": "Fri, 22 Aug 2025 15:59:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2508/22/news095.html",
+      "pubDate": "Fri, 22 Aug 2025 15:22:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/22/news094.html",
+      "pubDate": "Fri, 22 Aug 2025 15:14:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/22/news079.html",
+      "pubDate": "Fri, 22 Aug 2025 12:05:00 +0900"
     }
   ]
 }
