@@ -1,68 +1,8 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/17/news007.html",
-      "pubDate": "Fri, 25 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/24/news106.html",
-      "pubDate": "Thu, 24 Jul 2025 18:23:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/24/news083.html",
-      "pubDate": "Thu, 24 Jul 2025 14:27:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/07/82919/",
-      "pubDate": "Thu, 24 Jul 2025 03:00:24 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/24/news054.html",
-      "pubDate": "Thu, 24 Jul 2025 08:41:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/24/news053.html",
-      "pubDate": "Thu, 24 Jul 2025 08:26:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/",
-      "pubDate": "Fri, 25 Jul 2025 15:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/25/news118.html",
-      "pubDate": "Fri, 25 Jul 2025 17:34:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/25/news107.html",
-      "pubDate": "Fri, 25 Jul 2025 16:10:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/popart-yamanashi/",
-      "pubDate": "Fri, 25 Jul 2025 05:30:24 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/07/83281/",
-      "pubDate": "Fri, 25 Jul 2025 03:00:46 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/25/news075.html",
-      "pubDate": "Fri, 25 Jul 2025 10:45:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/products/2025/07/83045/",
-      "pubDate": "Fri, 25 Jul 2025 01:20:23 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2507/24/news069.html",
-      "pubDate": "Fri, 25 Jul 2025 10:18:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2507/26/news023.html",
       "pubDate": "Sat, 26 Jul 2025 09:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/25/news083.html",
-      "pubDate": "Sat, 26 Jul 2025 08:00:00 +0900"
     },
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2506/18/news010.html",
@@ -731,6 +671,30 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2508/22/news079.html",
       "pubDate": "Fri, 22 Aug 2025 12:05:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2508/25/news047.html",
+      "pubDate": "Mon, 25 Aug 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://kn.itmedia.co.jp/kn/articles/2508/25/news026.html",
+      "pubDate": "Mon, 25 Aug 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/25/news056.html",
+      "pubDate": "Mon, 25 Aug 2025 06:52:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/25/news018.html",
+      "pubDate": "Mon, 25 Aug 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/25/news012.html",
+      "pubDate": "Mon, 25 Aug 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2508/24/news017.html",
+      "pubDate": "Sun, 24 Aug 2025 08:00:00 +0900"
     }
   ]
 }
