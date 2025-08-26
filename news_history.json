@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2506/18/news010.html",
-      "pubDate": "Mon, 28 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/28/news016.html",
-      "pubDate": "Mon, 28 Jul 2025 05:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2507/29/news055.html",
       "pubDate": "Tue, 29 Jul 2025 07:44:00 +0900"
     },
@@ -719,6 +711,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2508/25/news070.html",
       "pubDate": "Mon, 25 Aug 2025 12:06:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2508/27/news003.html",
+      "pubDate": "Wed, 27 Aug 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/27/news011.html",
+      "pubDate": "Wed, 27 Aug 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/26/news132.html",
+      "pubDate": "Tue, 26 Aug 2025 23:50:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/26/news131.html",
+      "pubDate": "Tue, 26 Aug 2025 23:39:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/26/news124.html",
+      "pubDate": "Tue, 26 Aug 2025 22:25:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/26/news086.html",
+      "pubDate": "Tue, 26 Aug 2025 19:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
+      "pubDate": "Tue, 26 Aug 2025 08:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/26/news100.html",
+      "pubDate": "Tue, 26 Aug 2025 15:39:00 +0900"
     }
   ]
 }
