@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2507/31/news047.html",
-      "pubDate": "Thu, 31 Jul 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2507/31/news034.html",
-      "pubDate": "Thu, 31 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2507/31/news028.html",
-      "pubDate": "Thu, 31 Jul 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/31/news013.html",
-      "pubDate": "Thu, 31 Jul 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/07/core-model-start-from-answer-not-solution/",
-      "pubDate": "Wed, 30 Jul 2025 13:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/30/news124.html",
-      "pubDate": "Wed, 30 Jul 2025 18:52:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/30/news120.html",
-      "pubDate": "Wed, 30 Jul 2025 18:28:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2507/30/news122.html",
-      "pubDate": "Wed, 30 Jul 2025 18:27:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2508/01/news031.html",
       "pubDate": "Fri, 01 Aug 2025 07:30:00 +0900"
     },
@@ -743,6 +711,38 @@
     {
       "link": "https://www.japandesign.ne.jp/news/2025/08/83661/",
       "pubDate": "Thu, 28 Aug 2025 03:00:54 +0000"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/",
+      "pubDate": "Fri, 29 Aug 2025 10:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/29/news008.html",
+      "pubDate": "Fri, 29 Aug 2025 15:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2508/29/news096.html",
+      "pubDate": "Fri, 29 Aug 2025 13:39:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/08/83751/",
+      "pubDate": "Fri, 29 Aug 2025 03:00:57 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/08/83743/",
+      "pubDate": "Fri, 29 Aug 2025 03:00:51 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/29/news078.html",
+      "pubDate": "Fri, 29 Aug 2025 10:40:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2508/29/news049.html",
+      "pubDate": "Fri, 29 Aug 2025 10:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/29/news074.html",
+      "pubDate": "Fri, 29 Aug 2025 09:01:00 +0900"
     }
   ]
 }
