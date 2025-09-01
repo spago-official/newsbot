@@ -1,10 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2508/03/news020.html",
-      "pubDate": "Sun, 03 Aug 2025 07:26:00 +0900"
-    },
-    {
       "link": "https://monoist.itmedia.co.jp/mn/articles/2508/04/news031.html",
       "pubDate": "Mon, 04 Aug 2025 06:30:00 +0900"
     },
@@ -691,6 +687,38 @@
     {
       "link": "https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/",
       "pubDate": "Sun, 31 Aug 2025 08:00:00 GMT"
+    },
+    {
+      "link": "https://kn.itmedia.co.jp/kn/articles/2509/02/news045.html",
+      "pubDate": "Tue, 02 Sep 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/02/news014.html",
+      "pubDate": "Tue, 02 Sep 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/02/news008.html",
+      "pubDate": "Tue, 02 Sep 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/01/news121.html",
+      "pubDate": "Mon, 01 Sep 2025 18:34:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/01/news067.html",
+      "pubDate": "Mon, 01 Sep 2025 17:30:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/09/83845/",
+      "pubDate": "Mon, 01 Sep 2025 05:10:33 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2509/01/news091.html",
+      "pubDate": "Mon, 01 Sep 2025 14:00:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/09/83741/",
+      "pubDate": "Mon, 01 Sep 2025 03:02:16 +0000"
     }
   ]
 }
