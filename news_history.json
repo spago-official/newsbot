@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/07/news007.html",
-      "pubDate": "Thu, 07 Aug 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/08/automating-design-systems-tips-resources/",
-      "pubDate": "Wed, 06 Aug 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/06/news099.html",
-      "pubDate": "Wed, 06 Aug 2025 16:10:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/because-we-cannot-ad-museum/",
-      "pubDate": "Wed, 06 Aug 2025 06:35:13 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2508/06/news089.html",
-      "pubDate": "Wed, 06 Aug 2025 15:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/08/83040/",
-      "pubDate": "Wed, 06 Aug 2025 04:45:05 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/space/not-a-hotel-fukuoka/",
-      "pubDate": "Wed, 06 Aug 2025 04:20:52 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/06/news076.html",
-      "pubDate": "Wed, 06 Aug 2025 12:18:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2508/08/news031.html",
       "pubDate": "Fri, 08 Aug 2025 07:00:00 +0900"
     },
@@ -743,6 +711,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2509/04/news084.html",
       "pubDate": "Thu, 04 Sep 2025 13:25:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2509/06/news037.html",
+      "pubDate": "Sat, 06 Sep 2025 07:35:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/09/83869/",
+      "pubDate": "Fri, 05 Sep 2025 03:00:20 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/shirakaba-chigasakimuseum/",
+      "pubDate": "Fri, 05 Sep 2025 02:00:43 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/yunokisamiro-shizubi/",
+      "pubDate": "Fri, 05 Sep 2025 01:00:10 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2509/05/news076.html",
+      "pubDate": "Fri, 05 Sep 2025 09:53:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/indiachintz-tokyostationgallery/",
+      "pubDate": "Fri, 05 Sep 2025 00:05:32 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/09/83646/",
+      "pubDate": "Fri, 05 Sep 2025 00:00:57 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2509/05/news073.html",
+      "pubDate": "Fri, 05 Sep 2025 08:29:00 +0900"
     }
   ]
 }
