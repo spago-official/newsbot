@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2508/10/news015.html",
-      "pubDate": "Sun, 10 Aug 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/09/news031.html",
-      "pubDate": "Sat, 09 Aug 2025 12:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2508/12/news034.html",
       "pubDate": "Tue, 12 Aug 2025 07:00:00 +0900"
     },
@@ -687,6 +679,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2509/07/news026.html",
       "pubDate": "Sun, 07 Sep 2025 13:10:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2509/09/news057.html",
+      "pubDate": "Tue, 09 Sep 2025 06:30:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/09/news016.html",
+      "pubDate": "Tue, 09 Sep 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/09/news014.html",
+      "pubDate": "Tue, 09 Sep 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/08/news116.html",
+      "pubDate": "Mon, 08 Sep 2025 23:20:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/08/news113.html",
+      "pubDate": "Mon, 08 Sep 2025 19:23:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/interview/terada-vw-1/",
+      "pubDate": "Mon, 08 Sep 2025 04:45:18 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/interview/terada-vw-2/",
+      "pubDate": "Mon, 08 Sep 2025 04:44:43 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/08/news048.html",
+      "pubDate": "Mon, 08 Sep 2025 12:00:00 +0900"
     }
   ]
 }
