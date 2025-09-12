@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/business/articles/2508/14/news026.html",
-      "pubDate": "Thu, 14 Aug 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
-      "pubDate": "Wed, 13 Aug 2025 11:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/13/news099.html",
-      "pubDate": "Wed, 13 Aug 2025 17:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/13/news075.html",
-      "pubDate": "Wed, 13 Aug 2025 16:01:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2508/13/news089.html",
-      "pubDate": "Wed, 13 Aug 2025 16:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/13/news080.html",
-      "pubDate": "Wed, 13 Aug 2025 13:45:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/08/83498/",
-      "pubDate": "Wed, 13 Aug 2025 03:00:03 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2508/13/news065.html",
-      "pubDate": "Wed, 13 Aug 2025 11:54:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2508/14/news101.html",
       "pubDate": "Thu, 14 Aug 2025 18:49:00 +0900"
     },
@@ -759,6 +727,38 @@
     {
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/11/news052.html",
       "pubDate": "Thu, 11 Sep 2025 09:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
+      "pubDate": "Fri, 12 Sep 2025 15:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/12/news113.html",
+      "pubDate": "Fri, 12 Sep 2025 19:44:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/12/news087.html",
+      "pubDate": "Fri, 12 Sep 2025 15:59:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/12/news092.html",
+      "pubDate": "Fri, 12 Sep 2025 14:46:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2509/12/news082.html",
+      "pubDate": "Fri, 12 Sep 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/09/83951/",
+      "pubDate": "Fri, 12 Sep 2025 01:10:25 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/renew2025/",
+      "pubDate": "Fri, 12 Sep 2025 01:05:59 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/09/83675/",
+      "pubDate": "Fri, 12 Sep 2025 00:00:50 +0000"
     }
   ]
 }
