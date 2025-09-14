@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/16/news034.html",
-      "pubDate": "Sat, 16 Aug 2025 07:23:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/08/psychology-color-ux-design-digital-products/",
-      "pubDate": "Fri, 15 Aug 2025 15:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/15/news090.html",
-      "pubDate": "Fri, 15 Aug 2025 19:10:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/15/news086.html",
-      "pubDate": "Fri, 15 Aug 2025 17:04:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/15/news081.html",
-      "pubDate": "Fri, 15 Aug 2025 16:25:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/valueexpo-amagasaki-rekishimuseum/",
-      "pubDate": "Fri, 15 Aug 2025 06:05:36 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/08/83523/",
-      "pubDate": "Fri, 15 Aug 2025 03:00:24 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/kitagawaraatsushi-nakamura-haring/",
-      "pubDate": "Fri, 15 Aug 2025 01:30:09 +0000"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2508/17/news021.html",
       "pubDate": "Sun, 17 Aug 2025 07:33:00 +0900"
     },
@@ -739,6 +707,14 @@
     {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2509/13/news014.html",
       "pubDate": "Sat, 13 Sep 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/15/news021.html",
+      "pubDate": "Mon, 15 Sep 2025 07:43:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2509/15/news020.html",
+      "pubDate": "Mon, 15 Sep 2025 07:11:00 +0900"
     }
   ]
 }
