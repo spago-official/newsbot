@@ -1,10 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/17/news021.html",
-      "pubDate": "Sun, 17 Aug 2025 07:33:00 +0900"
-    },
-    {
       "link": "https://kn.itmedia.co.jp/kn/articles/2508/18/news038.html",
       "pubDate": "Mon, 18 Aug 2025 07:00:00 +0900"
     },
@@ -715,6 +711,22 @@
     {
       "link": "https://www.itmedia.co.jp/news/articles/2509/15/news020.html",
       "pubDate": "Mon, 15 Sep 2025 07:11:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/16/news058.html",
+      "pubDate": "Tue, 16 Sep 2025 06:36:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/16/news019.html",
+      "pubDate": "Tue, 16 Sep 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/16/news012.html",
+      "pubDate": "Tue, 16 Sep 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
+      "pubDate": "Mon, 15 Sep 2025 10:00:00 GMT"
     }
   ]
 }
