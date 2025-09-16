@@ -1,18 +1,6 @@
 {
   "items": [
     {
-      "link": "https://kn.itmedia.co.jp/kn/articles/2508/18/news038.html",
-      "pubDate": "Mon, 18 Aug 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2508/18/news024.html",
-      "pubDate": "Mon, 18 Aug 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2508/18/news008.html",
-      "pubDate": "Mon, 18 Aug 2025 07:00:00 +0900"
-    },
-    {
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/19/news009.html",
       "pubDate": "Tue, 19 Aug 2025 05:00:00 +0900"
     },
@@ -727,6 +715,38 @@
     {
       "link": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
       "pubDate": "Mon, 15 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/17/news056.html",
+      "pubDate": "Wed, 17 Sep 2025 07:46:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/17/news055.html",
+      "pubDate": "Wed, 17 Sep 2025 07:02:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/17/news042.html",
+      "pubDate": "Wed, 17 Sep 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/",
+      "pubDate": "Tue, 16 Sep 2025 17:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/16/news093.html",
+      "pubDate": "Tue, 16 Sep 2025 18:50:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/16/news119.html",
+      "pubDate": "Tue, 16 Sep 2025 17:57:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/",
+      "pubDate": "Tue, 16 Sep 2025 08:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/16/news104.html",
+      "pubDate": "Tue, 16 Sep 2025 15:33:00 +0900"
     }
   ]
 }
