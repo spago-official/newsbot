@@ -1,26 +1,6 @@
 {
   "items": [
     {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2508/25/news047.html",
-      "pubDate": "Mon, 25 Aug 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://kn.itmedia.co.jp/kn/articles/2508/25/news026.html",
-      "pubDate": "Mon, 25 Aug 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/25/news056.html",
-      "pubDate": "Mon, 25 Aug 2025 06:52:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/25/news018.html",
-      "pubDate": "Mon, 25 Aug 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/25/news012.html",
-      "pubDate": "Mon, 25 Aug 2025 05:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2508/26/news046.html",
       "pubDate": "Tue, 26 Aug 2025 07:30:00 +0900"
     },
@@ -727,6 +707,34 @@
     {
       "link": "https://www.japandesign.ne.jp/space/snow-peak-suzhou/",
       "pubDate": "Mon, 22 Sep 2025 03:00:23 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2509/24/news059.html",
+      "pubDate": "Wed, 24 Sep 2025 07:25:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2509/24/news023.html",
+      "pubDate": "Wed, 24 Sep 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/24/news056.html",
+      "pubDate": "Wed, 24 Sep 2025 06:40:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/22/news005.html",
+      "pubDate": "Wed, 24 Sep 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/24/news004.html",
+      "pubDate": "Wed, 24 Sep 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2509/23/news027.html",
+      "pubDate": "Tue, 23 Sep 2025 10:26:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/23/news026.html",
+      "pubDate": "Tue, 23 Sep 2025 09:48:00 +0900"
     }
   ]
 }
