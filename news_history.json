@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/business/articles/2508/28/news016.html",
-      "pubDate": "Thu, 28 Aug 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/28/news010.html",
-      "pubDate": "Thu, 28 Aug 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/27/news131.html",
-      "pubDate": "Wed, 27 Aug 2025 23:40:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/",
-      "pubDate": "Wed, 27 Aug 2025 13:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/27/news122.html",
-      "pubDate": "Wed, 27 Aug 2025 19:36:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/27/news106.html",
-      "pubDate": "Wed, 27 Aug 2025 16:44:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/27/news102.html",
-      "pubDate": "Wed, 27 Aug 2025 16:04:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2508/27/news094.html",
-      "pubDate": "Wed, 27 Aug 2025 15:19:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2508/29/news069.html",
       "pubDate": "Fri, 29 Aug 2025 07:09:00 +0900"
     },
@@ -735,6 +703,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2509/25/news113.html",
       "pubDate": "Thu, 25 Sep 2025 15:19:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/",
+      "pubDate": "Fri, 26 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/26/news109.html",
+      "pubDate": "Fri, 26 Sep 2025 15:38:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/frommingei-torelations-sccp-togeikan/",
+      "pubDate": "Fri, 26 Sep 2025 04:55:11 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/lucierie-craft-museum/",
+      "pubDate": "Fri, 26 Sep 2025 04:50:40 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/26/news102.html",
+      "pubDate": "Fri, 26 Sep 2025 13:10:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/26/news101.html",
+      "pubDate": "Fri, 26 Sep 2025 12:51:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/09/84165/",
+      "pubDate": "Fri, 26 Sep 2025 03:08:55 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/report/design-reskilling-graphic-2025/",
+      "pubDate": "Fri, 26 Sep 2025 03:05:13 +0000"
     }
   ]
 }
