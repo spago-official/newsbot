@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2509/01/news061.html",
-      "pubDate": "Mon, 01 Sep 2025 07:27:00 +0900"
-    },
-    {
-      "link": "https://kn.itmedia.co.jp/kn/articles/2509/01/news033.html",
-      "pubDate": "Mon, 01 Sep 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/column/souieba202508/",
-      "pubDate": "Sun, 31 Aug 2025 11:00:32 +0000"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/",
-      "pubDate": "Sun, 31 Aug 2025 08:00:00 GMT"
-    },
-    {
       "link": "https://kn.itmedia.co.jp/kn/articles/2509/02/news045.html",
       "pubDate": "Tue, 02 Sep 2025 07:00:00 +0900"
     },
@@ -715,6 +699,38 @@
     {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2509/29/news104.html",
       "pubDate": "Mon, 29 Sep 2025 12:51:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/01/news054.html",
+      "pubDate": "Wed, 01 Oct 2025 07:14:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2510/01/news033.html",
+      "pubDate": "Wed, 01 Oct 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/01/news012.html",
+      "pubDate": "Wed, 01 Oct 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/01/news052.html",
+      "pubDate": "Wed, 01 Oct 2025 03:23:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/",
+      "pubDate": "Tue, 30 Sep 2025 11:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2509/30/news171.html",
+      "pubDate": "Tue, 30 Sep 2025 19:45:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2509/30/news162.html",
+      "pubDate": "Tue, 30 Sep 2025 17:56:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/artpowersalute-unionsoda/",
+      "pubDate": "Tue, 30 Sep 2025 07:45:24 +0000"
     }
   ]
 }
