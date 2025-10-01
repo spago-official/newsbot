@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://kn.itmedia.co.jp/kn/articles/2509/02/news045.html",
-      "pubDate": "Tue, 02 Sep 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/02/news014.html",
-      "pubDate": "Tue, 02 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/02/news008.html",
-      "pubDate": "Tue, 02 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/01/news121.html",
-      "pubDate": "Mon, 01 Sep 2025 18:34:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/01/news067.html",
-      "pubDate": "Mon, 01 Sep 2025 17:30:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/09/83845/",
-      "pubDate": "Mon, 01 Sep 2025 05:10:33 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2509/01/news091.html",
-      "pubDate": "Mon, 01 Sep 2025 14:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/09/83741/",
-      "pubDate": "Mon, 01 Sep 2025 03:02:16 +0000"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2509/03/news068.html",
       "pubDate": "Wed, 03 Sep 2025 06:46:00 +0900"
     },
@@ -731,6 +699,38 @@
     {
       "link": "https://www.japandesign.ne.jp/event/artpowersalute-unionsoda/",
       "pubDate": "Tue, 30 Sep 2025 07:45:24 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/02/news052.html",
+      "pubDate": "Thu, 02 Oct 2025 07:21:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2510/02/news016.html",
+      "pubDate": "Thu, 02 Oct 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/02/news051.html",
+      "pubDate": "Thu, 02 Oct 2025 06:31:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/01/news083.html",
+      "pubDate": "Wed, 01 Oct 2025 18:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/01/news108.html",
+      "pubDate": "Wed, 01 Oct 2025 17:06:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/01/news109.html",
+      "pubDate": "Wed, 01 Oct 2025 17:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/01/news094.html",
+      "pubDate": "Wed, 01 Oct 2025 14:37:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/01/news091.html",
+      "pubDate": "Wed, 01 Oct 2025 14:12:00 +0900"
     }
   ]
 }
