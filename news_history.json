@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/business/articles/2509/05/news036.html",
-      "pubDate": "Fri, 05 Sep 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2509/05/news066.html",
-      "pubDate": "Fri, 05 Sep 2025 06:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/05/news016.html",
-      "pubDate": "Fri, 05 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/04/news127.html",
-      "pubDate": "Thu, 04 Sep 2025 22:30:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/",
-      "pubDate": "Thu, 04 Sep 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/04/news107.html",
-      "pubDate": "Thu, 04 Sep 2025 17:27:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/designer/312_takuto_ohta",
-      "pubDate": "Thu, 04 Sep 2025 06:35:13 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/04/news084.html",
-      "pubDate": "Thu, 04 Sep 2025 13:25:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/news/articles/2509/06/news037.html",
       "pubDate": "Sat, 06 Sep 2025 07:35:00 +0900"
     },
@@ -731,6 +699,18 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2510/03/news072.html",
       "pubDate": "Fri, 03 Oct 2025 12:06:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/04/news033.html",
+      "pubDate": "Sat, 04 Oct 2025 16:13:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/04/news025.html",
+      "pubDate": "Sat, 04 Oct 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/04/news023.html",
+      "pubDate": "Sat, 04 Oct 2025 11:00:00 +0900"
     }
   ]
 }
