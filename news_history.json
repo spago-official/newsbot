@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2509/06/news037.html",
-      "pubDate": "Sat, 06 Sep 2025 07:35:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/09/83869/",
-      "pubDate": "Fri, 05 Sep 2025 03:00:20 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/shirakaba-chigasakimuseum/",
-      "pubDate": "Fri, 05 Sep 2025 02:00:43 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/yunokisamiro-shizubi/",
-      "pubDate": "Fri, 05 Sep 2025 01:00:10 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2509/05/news076.html",
-      "pubDate": "Fri, 05 Sep 2025 09:53:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/indiachintz-tokyostationgallery/",
-      "pubDate": "Fri, 05 Sep 2025 00:05:32 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/09/83646/",
-      "pubDate": "Fri, 05 Sep 2025 00:00:57 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2509/05/news073.html",
-      "pubDate": "Fri, 05 Sep 2025 08:29:00 +0900"
-    },
-    {
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/08/news006.html",
       "pubDate": "Mon, 08 Sep 2025 05:00:00 +0900"
     },
@@ -711,6 +679,18 @@
     {
       "link": "https://www.itmedia.co.jp/news/articles/2510/04/news023.html",
       "pubDate": "Sat, 04 Oct 2025 11:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/06/news043.html",
+      "pubDate": "Mon, 06 Oct 2025 07:17:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2510/06/news006.html",
+      "pubDate": "Mon, 06 Oct 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2510/06/news042.html",
+      "pubDate": "Mon, 06 Oct 2025 06:15:00 +0900"
     }
   ]
 }
