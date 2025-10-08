@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2509/09/news057.html",
-      "pubDate": "Tue, 09 Sep 2025 06:30:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/09/news016.html",
-      "pubDate": "Tue, 09 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/09/news014.html",
-      "pubDate": "Tue, 09 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/08/news116.html",
-      "pubDate": "Mon, 08 Sep 2025 23:20:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/08/news113.html",
-      "pubDate": "Mon, 08 Sep 2025 19:23:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/interview/terada-vw-1/",
-      "pubDate": "Mon, 08 Sep 2025 04:45:18 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/interview/terada-vw-2/",
-      "pubDate": "Mon, 08 Sep 2025 04:44:43 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/08/news048.html",
-      "pubDate": "Mon, 08 Sep 2025 12:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2509/10/news005.html",
       "pubDate": "Wed, 10 Sep 2025 07:00:00 +0900"
     },
@@ -743,6 +711,38 @@
     {
       "link": "https://monoist.itmedia.co.jp/mn/articles/2510/07/news020.html",
       "pubDate": "Tue, 07 Oct 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2510/09/news039.html",
+      "pubDate": "Thu, 09 Oct 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2510/09/news018.html",
+      "pubDate": "Thu, 09 Oct 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/09/news060.html",
+      "pubDate": "Thu, 09 Oct 2025 06:43:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2510/09/news011.html",
+      "pubDate": "Thu, 09 Oct 2025 06:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/09/news014.html",
+      "pubDate": "Thu, 09 Oct 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/09/news005.html",
+      "pubDate": "Thu, 09 Oct 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2510/08/news092.html",
+      "pubDate": "Wed, 08 Oct 2025 17:03:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/08/news109.html",
+      "pubDate": "Wed, 08 Oct 2025 16:56:00 +0900"
     }
   ]
 }
