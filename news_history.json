@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://kn.itmedia.co.jp/kn/articles/2509/11/news041.html",
-      "pubDate": "Thu, 11 Sep 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2509/11/news054.html",
-      "pubDate": "Thu, 11 Sep 2025 06:15:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/11/news009.html",
-      "pubDate": "Thu, 11 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/",
-      "pubDate": "Wed, 10 Sep 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/10/news143.html",
-      "pubDate": "Wed, 10 Sep 2025 18:18:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/10/news137.html",
-      "pubDate": "Wed, 10 Sep 2025 17:07:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/10/news086.html",
-      "pubDate": "Wed, 10 Sep 2025 14:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/10/news113.html",
-      "pubDate": "Wed, 10 Sep 2025 12:05:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2509/12/news069.html",
       "pubDate": "Fri, 12 Sep 2025 06:30:00 +0900"
     },
@@ -743,6 +711,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2510/09/news094.html",
       "pubDate": "Thu, 09 Oct 2025 13:57:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/10/news124.html",
+      "pubDate": "Fri, 10 Oct 2025 18:40:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/10/news123.html",
+      "pubDate": "Fri, 10 Oct 2025 18:21:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/10/84185/",
+      "pubDate": "Fri, 10 Oct 2025 07:20:03 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/10/news096.html",
+      "pubDate": "Fri, 10 Oct 2025 14:00:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/10/84414/",
+      "pubDate": "Fri, 10 Oct 2025 03:00:27 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/nomadic-ataw/",
+      "pubDate": "Fri, 10 Oct 2025 02:00:31 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2510/10/news070.html",
+      "pubDate": "Fri, 10 Oct 2025 10:54:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/antiaction-toyotamuseum/",
+      "pubDate": "Fri, 10 Oct 2025 01:45:31 +0000"
     }
   ]
 }
