@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/12/news069.html",
-      "pubDate": "Fri, 12 Sep 2025 06:30:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news015.html",
-      "pubDate": "Fri, 12 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/09/84029/",
-      "pubDate": "Thu, 11 Sep 2025 06:00:23 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/10/news123.html",
-      "pubDate": "Thu, 11 Sep 2025 12:53:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/11/news077.html",
-      "pubDate": "Thu, 11 Sep 2025 12:34:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2509/11/news074.html",
-      "pubDate": "Thu, 11 Sep 2025 12:16:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/kasugaakio-collection-seikatsukobo/",
-      "pubDate": "Thu, 11 Sep 2025 01:00:44 +0000"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/11/news052.html",
-      "pubDate": "Thu, 11 Sep 2025 09:00:00 +0900"
-    },
-    {
       "link": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
       "pubDate": "Fri, 12 Sep 2025 15:00:00 GMT"
     },
@@ -743,6 +711,10 @@
     {
       "link": "https://www.japandesign.ne.jp/event/antiaction-toyotamuseum/",
       "pubDate": "Fri, 10 Oct 2025 01:45:31 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2510/11/news003.html",
+      "pubDate": "Sat, 11 Oct 2025 08:00:00 +0900"
     }
   ]
 }
