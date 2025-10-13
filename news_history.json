@@ -1,50 +1,6 @@
 {
   "items": [
     {
-      "link": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
-      "pubDate": "Fri, 12 Sep 2025 15:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/12/news113.html",
-      "pubDate": "Fri, 12 Sep 2025 19:44:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/12/news087.html",
-      "pubDate": "Fri, 12 Sep 2025 15:59:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/12/news092.html",
-      "pubDate": "Fri, 12 Sep 2025 14:46:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2509/12/news082.html",
-      "pubDate": "Fri, 12 Sep 2025 12:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/09/83951/",
-      "pubDate": "Fri, 12 Sep 2025 01:10:25 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/renew2025/",
-      "pubDate": "Fri, 12 Sep 2025 01:05:59 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/09/83675/",
-      "pubDate": "Fri, 12 Sep 2025 00:00:50 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/14/news018.html",
-      "pubDate": "Sun, 14 Sep 2025 06:13:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2509/13/news018.html",
-      "pubDate": "Sat, 13 Sep 2025 08:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/13/news014.html",
-      "pubDate": "Sat, 13 Sep 2025 08:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2509/15/news021.html",
       "pubDate": "Mon, 15 Sep 2025 07:43:00 +0900"
     },
@@ -715,6 +671,22 @@
     {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2510/11/news003.html",
       "pubDate": "Sat, 11 Oct 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2510/14/news047.html",
+      "pubDate": "Tue, 14 Oct 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2510/14/news018.html",
+      "pubDate": "Tue, 14 Oct 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/14/news015.html",
+      "pubDate": "Tue, 14 Oct 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
+      "pubDate": "Mon, 13 Oct 2025 10:00:00 GMT"
     }
   ]
 }
