@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/16/news058.html",
-      "pubDate": "Tue, 16 Sep 2025 06:36:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/16/news019.html",
-      "pubDate": "Tue, 16 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/16/news012.html",
-      "pubDate": "Tue, 16 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
-      "pubDate": "Mon, 15 Sep 2025 10:00:00 GMT"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2509/17/news056.html",
       "pubDate": "Wed, 17 Sep 2025 07:46:00 +0900"
     },
@@ -711,6 +695,38 @@
     {
       "link": "https://www.japandesign.ne.jp/event/10p10fp-2025-iaj/",
       "pubDate": "Tue, 14 Oct 2025 02:00:06 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/15/news122.html",
+      "pubDate": "Wed, 15 Oct 2025 18:47:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/10/84583/",
+      "pubDate": "Wed, 15 Oct 2025 08:52:09 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/15/news108.html",
+      "pubDate": "Wed, 15 Oct 2025 16:35:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/thepowerofred-toraya-tokyomidtown/",
+      "pubDate": "Wed, 15 Oct 2025 06:00:49 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/15/news086.html",
+      "pubDate": "Wed, 15 Oct 2025 13:19:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/15/news083.html",
+      "pubDate": "Wed, 15 Oct 2025 12:50:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/15/news080.html",
+      "pubDate": "Wed, 15 Oct 2025 12:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/15/news079.html",
+      "pubDate": "Wed, 15 Oct 2025 12:28:00 +0900"
     }
   ]
 }
