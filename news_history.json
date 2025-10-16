@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/17/news056.html",
-      "pubDate": "Wed, 17 Sep 2025 07:46:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/17/news055.html",
-      "pubDate": "Wed, 17 Sep 2025 07:02:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/17/news042.html",
-      "pubDate": "Wed, 17 Sep 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/",
-      "pubDate": "Tue, 16 Sep 2025 17:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/16/news093.html",
-      "pubDate": "Tue, 16 Sep 2025 18:50:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/16/news119.html",
-      "pubDate": "Tue, 16 Sep 2025 17:57:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/",
-      "pubDate": "Tue, 16 Sep 2025 08:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/16/news104.html",
-      "pubDate": "Tue, 16 Sep 2025 15:33:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2509/18/news039.html",
       "pubDate": "Thu, 18 Sep 2025 07:30:00 +0900"
     },
@@ -727,6 +695,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2510/15/news079.html",
       "pubDate": "Wed, 15 Oct 2025 12:28:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/17/news057.html",
+      "pubDate": "Fri, 17 Oct 2025 07:33:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2510/17/news017.html",
+      "pubDate": "Fri, 17 Oct 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/",
+      "pubDate": "Thu, 16 Oct 2025 13:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/16/news124.html",
+      "pubDate": "Thu, 16 Oct 2025 19:48:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/16/news108.html",
+      "pubDate": "Thu, 16 Oct 2025 17:19:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/10/84577/",
+      "pubDate": "Thu, 16 Oct 2025 03:00:18 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/16/news076.html",
+      "pubDate": "Thu, 16 Oct 2025 11:32:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/16/news065.html",
+      "pubDate": "Thu, 16 Oct 2025 10:00:00 +0900"
     }
   ]
 }
