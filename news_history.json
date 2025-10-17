@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/18/news039.html",
-      "pubDate": "Thu, 18 Sep 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/19/news010.html",
-      "pubDate": "Thu, 18 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/18/news007.html",
-      "pubDate": "Thu, 18 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2509/17/news115.html",
-      "pubDate": "Wed, 17 Sep 2025 21:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/17/news110.html",
-      "pubDate": "Wed, 17 Sep 2025 18:33:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/17/news104.html",
-      "pubDate": "Wed, 17 Sep 2025 16:48:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/17/news086.html",
-      "pubDate": "Wed, 17 Sep 2025 14:29:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/17/news080.html",
-      "pubDate": "Wed, 17 Sep 2025 13:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2509/19/news050.html",
       "pubDate": "Fri, 19 Sep 2025 07:00:00 +0900"
     },
@@ -727,6 +695,38 @@
     {
       "link": "https://www.itmedia.co.jp/news/articles/2510/16/news065.html",
       "pubDate": "Thu, 16 Oct 2025 10:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2510/18/news012.html",
+      "pubDate": "Sat, 18 Oct 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/report/autumn-event-2025/",
+      "pubDate": "Fri, 17 Oct 2025 11:00:55 +0000"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
+      "pubDate": "Fri, 17 Oct 2025 08:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/17/news089.html",
+      "pubDate": "Fri, 17 Oct 2025 15:59:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/17/news091.html",
+      "pubDate": "Fri, 17 Oct 2025 15:54:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/17/news076.html",
+      "pubDate": "Fri, 17 Oct 2025 13:22:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/17/news070.html",
+      "pubDate": "Fri, 17 Oct 2025 11:55:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/17/news066.html",
+      "pubDate": "Fri, 17 Oct 2025 10:53:00 +0900"
     }
   ]
 }
