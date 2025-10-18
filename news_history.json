@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/19/news050.html",
-      "pubDate": "Fri, 19 Sep 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2509/19/news034.html",
-      "pubDate": "Fri, 19 Sep 2025 06:30:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2509/19/news064.html",
-      "pubDate": "Fri, 19 Sep 2025 06:15:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/19/news009.html",
-      "pubDate": "Fri, 19 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/18/news123.html",
-      "pubDate": "Thu, 18 Sep 2025 19:08:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/",
-      "pubDate": "Thu, 18 Sep 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/19/news025.html",
-      "pubDate": "Thu, 18 Sep 2025 17:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2509/18/news107.html",
-      "pubDate": "Thu, 18 Sep 2025 16:40:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2509/19/news145.html",
       "pubDate": "Fri, 19 Sep 2025 20:43:00 +0900"
     },
@@ -727,6 +695,14 @@
     {
       "link": "https://www.itmedia.co.jp/news/articles/2510/17/news066.html",
       "pubDate": "Fri, 17 Oct 2025 10:53:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2510/18/news017.html",
+      "pubDate": "Sat, 18 Oct 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/18/news026.html",
+      "pubDate": "Sat, 18 Oct 2025 07:53:00 +0900"
     }
   ]
 }
