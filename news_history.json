@@ -1,42 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/19/news145.html",
-      "pubDate": "Fri, 19 Sep 2025 20:43:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/",
-      "pubDate": "Fri, 19 Sep 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/19/news128.html",
-      "pubDate": "Fri, 19 Sep 2025 17:17:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/19/news116.html",
-      "pubDate": "Fri, 19 Sep 2025 15:53:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/kogeidesigntech-ampkyoto/",
-      "pubDate": "Fri, 19 Sep 2025 06:20:44 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/isozakiarata-gunto-arttowermito/",
-      "pubDate": "Fri, 19 Sep 2025 06:20:37 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/19/news099.html",
-      "pubDate": "Fri, 19 Sep 2025 14:38:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/09/84096/",
-      "pubDate": "Fri, 19 Sep 2025 03:00:20 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/20/news009.html",
-      "pubDate": "Sat, 20 Sep 2025 08:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/news/articles/2509/23/news025.html",
       "pubDate": "Tue, 23 Sep 2025 07:18:00 +0900"
     },
@@ -703,6 +667,14 @@
     {
       "link": "https://www.itmedia.co.jp/news/articles/2510/18/news026.html",
       "pubDate": "Sat, 18 Oct 2025 07:53:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2510/20/news046.html",
+      "pubDate": "Mon, 20 Oct 2025 06:15:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/20/news015.html",
+      "pubDate": "Mon, 20 Oct 2025 05:00:00 +0900"
     }
   ]
 }
