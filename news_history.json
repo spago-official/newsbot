@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/26/news064.html",
-      "pubDate": "Fri, 26 Sep 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://kn.itmedia.co.jp/kn/articles/2509/26/news030.html",
-      "pubDate": "Fri, 26 Sep 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/30/news017.html",
-      "pubDate": "Fri, 26 Sep 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/26/news016.html",
-      "pubDate": "Fri, 26 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/26/news014.html",
-      "pubDate": "Fri, 26 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/26/news003.html",
-      "pubDate": "Fri, 26 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/25/news116.html",
-      "pubDate": "Thu, 25 Sep 2025 16:26:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/25/news113.html",
-      "pubDate": "Thu, 25 Sep 2025 15:19:00 +0900"
-    },
-    {
       "link": "https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/",
       "pubDate": "Fri, 26 Sep 2025 10:00:00 GMT"
     },
@@ -743,6 +711,10 @@
     {
       "link": "https://www.itmedia.co.jp/news/articles/2510/24/news074.html",
       "pubDate": "Fri, 24 Oct 2025 10:04:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/25/news021.html",
+      "pubDate": "Sat, 25 Oct 2025 09:00:00 +0900"
     }
   ]
 }
