@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/30/news082.html",
-      "pubDate": "Tue, 30 Sep 2025 07:09:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/30/news081.html",
-      "pubDate": "Tue, 30 Sep 2025 06:30:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/30/news028.html",
-      "pubDate": "Tue, 30 Sep 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/report/tagami-bambooboo2025/",
-      "pubDate": "Mon, 29 Sep 2025 06:00:22 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/kimitokami-takomihoncho/",
-      "pubDate": "Mon, 29 Sep 2025 05:45:10 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2509/29/news110.html",
-      "pubDate": "Mon, 29 Sep 2025 14:20:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2509/29/news109.html",
-      "pubDate": "Mon, 29 Sep 2025 14:08:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2509/29/news104.html",
-      "pubDate": "Mon, 29 Sep 2025 12:51:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/news/articles/2510/01/news054.html",
       "pubDate": "Wed, 01 Oct 2025 07:14:00 +0900"
     },
@@ -751,6 +719,38 @@
     {
       "link": "https://www.itmedia.co.jp/business/articles/2510/28/news086.html",
       "pubDate": "Tue, 28 Oct 2025 14:45:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/coricci-slowhouse/",
+      "pubDate": "Wed, 29 Oct 2025 23:10:43 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/shinshinsakka22-topmuseum/",
+      "pubDate": "Wed, 29 Oct 2025 23:05:59 +0000"
+    },
+    {
+      "link": "https://kn.itmedia.co.jp/kn/articles/2510/30/news024.html",
+      "pubDate": "Thu, 30 Oct 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/30/news013.html",
+      "pubDate": "Thu, 30 Oct 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/29/news090.html",
+      "pubDate": "Wed, 29 Oct 2025 13:58:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/10/84664/",
+      "pubDate": "Wed, 29 Oct 2025 03:00:21 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/10/84667/",
+      "pubDate": "Wed, 29 Oct 2025 02:55:29 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/29/news075.html",
+      "pubDate": "Wed, 29 Oct 2025 11:36:00 +0900"
     }
   ]
 }
