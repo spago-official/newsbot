@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/02/news052.html",
-      "pubDate": "Thu, 02 Oct 2025 07:21:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2510/02/news016.html",
-      "pubDate": "Thu, 02 Oct 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/02/news051.html",
-      "pubDate": "Thu, 02 Oct 2025 06:31:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/01/news083.html",
-      "pubDate": "Wed, 01 Oct 2025 18:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/01/news108.html",
-      "pubDate": "Wed, 01 Oct 2025 17:06:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/01/news109.html",
-      "pubDate": "Wed, 01 Oct 2025 17:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/01/news094.html",
-      "pubDate": "Wed, 01 Oct 2025 14:37:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/01/news091.html",
-      "pubDate": "Wed, 01 Oct 2025 14:12:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/news/articles/2510/03/news053.html",
       "pubDate": "Fri, 03 Oct 2025 07:12:00 +0900"
     },
@@ -751,6 +719,38 @@
     {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2510/30/news062.html",
       "pubDate": "Thu, 30 Oct 2025 12:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/01/news007.html",
+      "pubDate": "Sat, 01 Nov 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2511/01/news026.html",
+      "pubDate": "Sat, 01 Nov 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
+      "pubDate": "Fri, 31 Oct 2025 12:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/31/news143.html",
+      "pubDate": "Fri, 31 Oct 2025 20:07:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2510/31/news123.html",
+      "pubDate": "Fri, 31 Oct 2025 19:15:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/31/news130.html",
+      "pubDate": "Fri, 31 Oct 2025 17:32:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/31/news122.html",
+      "pubDate": "Fri, 31 Oct 2025 16:35:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2510/31/news112.html",
+      "pubDate": "Fri, 31 Oct 2025 14:30:00 +0900"
     }
   ]
 }
