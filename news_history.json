@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/03/news053.html",
-      "pubDate": "Fri, 03 Oct 2025 07:12:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/02/news102.html",
-      "pubDate": "Thu, 02 Oct 2025 17:58:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/02/news099.html",
-      "pubDate": "Thu, 02 Oct 2025 17:45:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/10/84355/",
-      "pubDate": "Thu, 02 Oct 2025 07:10:41 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/02/news074.html",
-      "pubDate": "Thu, 02 Oct 2025 12:45:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/10/84283/",
-      "pubDate": "Thu, 02 Oct 2025 03:00:40 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/02/news015.html",
-      "pubDate": "Thu, 02 Oct 2025 12:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/kitahama-nominoichi-nakanoshima/",
-      "pubDate": "Thu, 02 Oct 2025 02:00:46 +0000"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2510/04/news011.html",
       "pubDate": "Sat, 04 Oct 2025 07:00:00 +0900"
     },
@@ -751,6 +719,14 @@
     {
       "link": "https://www.itmedia.co.jp/news/articles/2510/31/news112.html",
       "pubDate": "Fri, 31 Oct 2025 14:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/01/news023.html",
+      "pubDate": "Sat, 01 Nov 2025 09:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/01/news013.html",
+      "pubDate": "Sat, 01 Nov 2025 08:00:00 +0900"
     }
   ]
 }
