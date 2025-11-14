@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/15/news122.html",
-      "pubDate": "Wed, 15 Oct 2025 18:47:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/10/84583/",
-      "pubDate": "Wed, 15 Oct 2025 08:52:09 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/15/news108.html",
-      "pubDate": "Wed, 15 Oct 2025 16:35:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/thepowerofred-toraya-tokyomidtown/",
-      "pubDate": "Wed, 15 Oct 2025 06:00:49 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/15/news086.html",
-      "pubDate": "Wed, 15 Oct 2025 13:19:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/15/news083.html",
-      "pubDate": "Wed, 15 Oct 2025 12:50:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/15/news080.html",
-      "pubDate": "Wed, 15 Oct 2025 12:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/15/news079.html",
-      "pubDate": "Wed, 15 Oct 2025 12:28:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/news/articles/2510/17/news057.html",
       "pubDate": "Fri, 17 Oct 2025 07:33:00 +0900"
     },
@@ -739,6 +707,38 @@
     {
       "link": "https://www.itmedia.co.jp/news/articles/2511/13/news097.html",
       "pubDate": "Thu, 13 Nov 2025 14:35:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
+      "pubDate": "Fri, 14 Nov 2025 13:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/14/news094.html",
+      "pubDate": "Fri, 14 Nov 2025 14:35:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/14/news084.html",
+      "pubDate": "Fri, 14 Nov 2025 13:44:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/14/news079.html",
+      "pubDate": "Fri, 14 Nov 2025 12:18:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/14/news076.html",
+      "pubDate": "Fri, 14 Nov 2025 12:01:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/11/85025/",
+      "pubDate": "Fri, 14 Nov 2025 03:00:40 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2511/14/news059.html",
+      "pubDate": "Fri, 14 Nov 2025 10:30:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/atomartaward-2025-courtyardhiroo/",
+      "pubDate": "Fri, 14 Nov 2025 01:00:31 +0000"
     }
   ]
 }
