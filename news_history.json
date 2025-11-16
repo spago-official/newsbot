@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2510/18/news012.html",
-      "pubDate": "Sat, 18 Oct 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/report/autumn-event-2025/",
-      "pubDate": "Fri, 17 Oct 2025 11:00:55 +0000"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
-      "pubDate": "Fri, 17 Oct 2025 08:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/17/news089.html",
-      "pubDate": "Fri, 17 Oct 2025 15:59:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/17/news091.html",
-      "pubDate": "Fri, 17 Oct 2025 15:54:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/17/news076.html",
-      "pubDate": "Fri, 17 Oct 2025 13:22:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/17/news070.html",
-      "pubDate": "Fri, 17 Oct 2025 11:55:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/17/news066.html",
-      "pubDate": "Fri, 17 Oct 2025 10:53:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2510/18/news017.html",
-      "pubDate": "Sat, 18 Oct 2025 08:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/18/news026.html",
-      "pubDate": "Sat, 18 Oct 2025 07:53:00 +0900"
-    },
-    {
       "link": "https://monoist.itmedia.co.jp/mn/articles/2510/20/news046.html",
       "pubDate": "Mon, 20 Oct 2025 06:15:00 +0900"
     },
@@ -711,6 +671,26 @@
     {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2511/15/news009.html",
       "pubDate": "Sat, 15 Nov 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2511/17/news021.html",
+      "pubDate": "Mon, 17 Nov 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2511/17/news010.html",
+      "pubDate": "Mon, 17 Nov 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/14/news118.html",
+      "pubDate": "Sun, 16 Nov 2025 13:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2511/16/news021.html",
+      "pubDate": "Sun, 16 Nov 2025 12:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/16/news017.html",
+      "pubDate": "Sun, 16 Nov 2025 07:52:00 +0900"
     }
   ]
 }
