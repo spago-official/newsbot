@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2510/20/news046.html",
-      "pubDate": "Mon, 20 Oct 2025 06:15:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/20/news015.html",
-      "pubDate": "Mon, 20 Oct 2025 05:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/news/articles/2510/21/news061.html",
       "pubDate": "Tue, 21 Oct 2025 07:21:00 +0900"
     },
@@ -723,6 +715,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2511/17/news068.html",
       "pubDate": "Mon, 17 Nov 2025 13:46:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/19/news014.html",
+      "pubDate": "Wed, 19 Nov 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/19/news067.html",
+      "pubDate": "Wed, 19 Nov 2025 03:02:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/19/news066.html",
+      "pubDate": "Wed, 19 Nov 2025 01:54:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2511/18/news131.html",
+      "pubDate": "Tue, 18 Nov 2025 23:46:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
+      "pubDate": "Tue, 18 Nov 2025 10:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/18/news121.html",
+      "pubDate": "Tue, 18 Nov 2025 18:37:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/18/news106.html",
+      "pubDate": "Tue, 18 Nov 2025 15:57:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/18/news076.html",
+      "pubDate": "Tue, 18 Nov 2025 13:27:00 +0900"
     }
   ]
 }
