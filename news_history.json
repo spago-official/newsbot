@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/21/news061.html",
-      "pubDate": "Tue, 21 Oct 2025 07:21:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/21/news008.html",
-      "pubDate": "Tue, 21 Oct 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/21/news007.html",
-      "pubDate": "Tue, 21 Oct 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/20/news101.html",
-      "pubDate": "Mon, 20 Oct 2025 19:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2510/20/news055.html",
-      "pubDate": "Mon, 20 Oct 2025 13:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/10/84608/",
-      "pubDate": "Mon, 20 Oct 2025 03:00:19 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/20/news012.html",
-      "pubDate": "Mon, 20 Oct 2025 11:30:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/20/news042.html",
-      "pubDate": "Mon, 20 Oct 2025 10:40:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2510/22/news019.html",
       "pubDate": "Wed, 22 Oct 2025 07:00:00 +0900"
     },
@@ -55,14 +23,6 @@
     {
       "link": "https://www.japandesign.ne.jp/news/2025/10/84603/",
       "pubDate": "Tue, 21 Oct 2025 00:00:49 +0000"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/21/news035.html",
-      "pubDate": "Tue, 21 Oct 2025 08:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2510/21/news029.html",
-      "pubDate": "Tue, 21 Oct 2025 08:00:00 +0900"
     },
     {
       "link": "https://www.itmedia.co.jp/news/articles/2510/23/news052.html",
@@ -747,6 +707,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2511/18/news076.html",
       "pubDate": "Tue, 18 Nov 2025 13:27:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2511/20/news032.html",
+      "pubDate": "Thu, 20 Nov 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/19/news099.html",
+      "pubDate": "Wed, 19 Nov 2025 20:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/19/news119.html",
+      "pubDate": "Wed, 19 Nov 2025 16:56:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/19/news090.html",
+      "pubDate": "Wed, 19 Nov 2025 12:47:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/19/news083.html",
+      "pubDate": "Wed, 19 Nov 2025 12:30:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/11/85024/",
+      "pubDate": "Wed, 19 Nov 2025 03:00:54 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/19/news075.html",
+      "pubDate": "Wed, 19 Nov 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/19/news085.html",
+      "pubDate": "Wed, 19 Nov 2025 11:51:00 +0900"
     }
   ]
 }
