@@ -1,74 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/24/news068.html",
-      "pubDate": "Fri, 24 Oct 2025 07:23:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2510/24/news032.html",
-      "pubDate": "Fri, 24 Oct 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/24/news021.html",
-      "pubDate": "Fri, 24 Oct 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/23/news098.html",
-      "pubDate": "Thu, 23 Oct 2025 17:26:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/23/news083.html",
-      "pubDate": "Thu, 23 Oct 2025 14:42:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/23/news075.html",
-      "pubDate": "Thu, 23 Oct 2025 13:37:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/23/news073.html",
-      "pubDate": "Thu, 23 Oct 2025 13:31:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/10/84557/",
-      "pubDate": "Thu, 23 Oct 2025 03:00:40 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/24/news118.html",
-      "pubDate": "Fri, 24 Oct 2025 18:02:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/seikatsuhenshuzukan-hands/",
-      "pubDate": "Fri, 24 Oct 2025 07:35:24 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/biwakobiennale-2025/",
-      "pubDate": "Fri, 24 Oct 2025 06:10:30 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/24/news091.html",
-      "pubDate": "Fri, 24 Oct 2025 12:54:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/10/84662/",
-      "pubDate": "Fri, 24 Oct 2025 03:00:57 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/24/news079.html",
-      "pubDate": "Fri, 24 Oct 2025 10:59:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/24/news077.html",
-      "pubDate": "Fri, 24 Oct 2025 10:50:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/24/news074.html",
-      "pubDate": "Fri, 24 Oct 2025 10:04:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/25/news021.html",
-      "pubDate": "Sat, 25 Oct 2025 09:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2510/27/news046.html",
       "pubDate": "Mon, 27 Oct 2025 07:01:00 +0900"
     },
@@ -747,6 +679,22 @@
     {
       "link": "https://www.itmedia.co.jp/business/articles/2511/21/news089.html",
       "pubDate": "Fri, 21 Nov 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/25/news053.html",
+      "pubDate": "Tue, 25 Nov 2025 07:33:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2511/25/news051.html",
+      "pubDate": "Tue, 25 Nov 2025 06:15:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/25/news018.html",
+      "pubDate": "Tue, 25 Nov 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/11/designing-for-stress-emergency/",
+      "pubDate": "Mon, 24 Nov 2025 13:00:00 GMT"
     }
   ]
 }
