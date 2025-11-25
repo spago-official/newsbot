@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/27/news046.html",
-      "pubDate": "Mon, 27 Oct 2025 07:01:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2510/27/news030.html",
-      "pubDate": "Mon, 27 Oct 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/27/news014.html",
-      "pubDate": "Mon, 27 Oct 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/27/news010.html",
-      "pubDate": "Mon, 27 Oct 2025 05:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/news/articles/2510/28/news063.html",
       "pubDate": "Tue, 28 Oct 2025 06:39:00 +0900"
     },
@@ -695,6 +679,38 @@
     {
       "link": "https://smashingmagazine.com/2025/11/designing-for-stress-emergency/",
       "pubDate": "Mon, 24 Nov 2025 13:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2511/26/news029.html",
+      "pubDate": "Wed, 26 Nov 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/26/news019.html",
+      "pubDate": "Wed, 26 Nov 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/26/news012.html",
+      "pubDate": "Wed, 26 Nov 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/11/design-system-culture/",
+      "pubDate": "Tue, 25 Nov 2025 18:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/25/news119.html",
+      "pubDate": "Tue, 25 Nov 2025 19:43:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/25/news117.html",
+      "pubDate": "Tue, 25 Nov 2025 18:45:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/25/news116.html",
+      "pubDate": "Tue, 25 Nov 2025 18:35:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/25/news108.html",
+      "pubDate": "Tue, 25 Nov 2025 17:23:00 +0900"
     }
   ]
 }
