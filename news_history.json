@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2510/29/news049.html",
-      "pubDate": "Wed, 29 Oct 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/29/news065.html",
-      "pubDate": "Wed, 29 Oct 2025 07:06:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2510/29/news028.html",
-      "pubDate": "Wed, 29 Oct 2025 06:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/28/news121.html",
-      "pubDate": "Tue, 28 Oct 2025 19:14:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/28/news116.html",
-      "pubDate": "Tue, 28 Oct 2025 18:59:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/28/news109.html",
-      "pubDate": "Tue, 28 Oct 2025 17:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/28/news088.html",
-      "pubDate": "Tue, 28 Oct 2025 14:56:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2510/28/news086.html",
-      "pubDate": "Tue, 28 Oct 2025 14:45:00 +0900"
-    },
-    {
       "link": "https://www.japandesign.ne.jp/event/coricci-slowhouse/",
       "pubDate": "Wed, 29 Oct 2025 23:10:43 +0000"
     },
@@ -711,6 +679,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2511/26/news123.html",
       "pubDate": "Wed, 26 Nov 2025 18:26:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/28/news041.html",
+      "pubDate": "Fri, 28 Nov 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/28/news038.html",
+      "pubDate": "Fri, 28 Nov 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2511/28/news066.html",
+      "pubDate": "Fri, 28 Nov 2025 06:30:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/designer/314_ryota_yokozeki",
+      "pubDate": "Thu, 27 Nov 2025 10:00:46 +0000"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
+      "pubDate": "Thu, 27 Nov 2025 10:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/27/news119.html",
+      "pubDate": "Thu, 27 Nov 2025 18:10:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/27/news122.html",
+      "pubDate": "Thu, 27 Nov 2025 18:08:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/27/news111.html",
+      "pubDate": "Thu, 27 Nov 2025 15:52:00 +0900"
     }
   ]
 }
