@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.japandesign.ne.jp/event/coricci-slowhouse/",
-      "pubDate": "Wed, 29 Oct 2025 23:10:43 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/shinshinsakka22-topmuseum/",
-      "pubDate": "Wed, 29 Oct 2025 23:05:59 +0000"
-    },
-    {
-      "link": "https://kn.itmedia.co.jp/kn/articles/2510/30/news024.html",
-      "pubDate": "Thu, 30 Oct 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/30/news013.html",
-      "pubDate": "Thu, 30 Oct 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/29/news090.html",
-      "pubDate": "Wed, 29 Oct 2025 13:58:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/10/84664/",
-      "pubDate": "Wed, 29 Oct 2025 03:00:21 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/10/84667/",
-      "pubDate": "Wed, 29 Oct 2025 02:55:29 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/29/news075.html",
-      "pubDate": "Wed, 29 Oct 2025 11:36:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2510/15/news010.html",
       "pubDate": "Fri, 31 Oct 2025 07:30:00 +0900"
     },
@@ -711,6 +679,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2511/27/news111.html",
       "pubDate": "Thu, 27 Nov 2025 15:52:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/28/news126.html",
+      "pubDate": "Fri, 28 Nov 2025 18:13:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/28/news089.html",
+      "pubDate": "Fri, 28 Nov 2025 13:09:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/11/85404/",
+      "pubDate": "Fri, 28 Nov 2025 03:00:34 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2511/28/news075.html",
+      "pubDate": "Fri, 28 Nov 2025 10:07:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/11/84827/",
+      "pubDate": "Fri, 28 Nov 2025 00:00:14 +0000"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/28/news065.html",
+      "pubDate": "Fri, 28 Nov 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/28/news051.html",
+      "pubDate": "Fri, 28 Nov 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2511/28/news031.html",
+      "pubDate": "Fri, 28 Nov 2025 08:00:00 +0900"
     }
   ]
 }
