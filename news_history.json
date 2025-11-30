@@ -1,76 +1,8 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2510/15/news010.html",
-      "pubDate": "Fri, 31 Oct 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2510/31/news038.html",
-      "pubDate": "Fri, 31 Oct 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/31/news027.html",
-      "pubDate": "Fri, 31 Oct 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/30/news110.html",
-      "pubDate": "Thu, 30 Oct 2025 17:35:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/30/news102.html",
-      "pubDate": "Thu, 30 Oct 2025 16:02:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/30/news099.html",
-      "pubDate": "Thu, 30 Oct 2025 15:47:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/30/news084.html",
-      "pubDate": "Thu, 30 Oct 2025 12:40:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2510/30/news062.html",
-      "pubDate": "Thu, 30 Oct 2025 12:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/01/news007.html",
-      "pubDate": "Sat, 01 Nov 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2511/01/news026.html",
-      "pubDate": "Sat, 01 Nov 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
-      "pubDate": "Fri, 31 Oct 2025 12:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/31/news143.html",
-      "pubDate": "Fri, 31 Oct 2025 20:07:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2510/31/news123.html",
-      "pubDate": "Fri, 31 Oct 2025 19:15:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2510/31/news130.html",
-      "pubDate": "Fri, 31 Oct 2025 17:32:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/31/news122.html",
-      "pubDate": "Fri, 31 Oct 2025 16:35:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2510/31/news112.html",
-      "pubDate": "Fri, 31 Oct 2025 14:30:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2511/01/news023.html",
       "pubDate": "Sat, 01 Nov 2025 09:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/01/news013.html",
-      "pubDate": "Sat, 01 Nov 2025 08:00:00 +0900"
     },
     {
       "link": "https://www.itmedia.co.jp/business/articles/2511/04/news029.html",
@@ -711,6 +643,30 @@
     {
       "link": "https://www.itmedia.co.jp/business/articles/2511/28/news031.html",
       "pubDate": "Fri, 28 Nov 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2512/01/news051.html",
+      "pubDate": "Mon, 01 Dec 2025 07:32:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2512/02/news022.html",
+      "pubDate": "Mon, 01 Dec 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2512/01/news024.html",
+      "pubDate": "Mon, 01 Dec 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2512/01/news009.html",
+      "pubDate": "Mon, 01 Dec 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/01/news014.html",
+      "pubDate": "Mon, 01 Dec 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
+      "pubDate": "Sun, 30 Nov 2025 09:00:00 GMT"
     }
   ]
 }
