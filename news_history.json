@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2511/05/news051.html",
-      "pubDate": "Wed, 05 Nov 2025 07:06:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
-      "pubDate": "Tue, 04 Nov 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/04/news073.html",
-      "pubDate": "Tue, 04 Nov 2025 15:35:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/04/news082.html",
-      "pubDate": "Tue, 04 Nov 2025 14:51:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/interview/motoya-font-canva-1/",
-      "pubDate": "Tue, 04 Nov 2025 03:01:20 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/interview/motoya-font-canva-2/",
-      "pubDate": "Tue, 04 Nov 2025 03:00:17 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/11/84802/",
-      "pubDate": "Tue, 04 Nov 2025 02:59:40 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/naritaartrunway-naritaairport/",
-      "pubDate": "Tue, 04 Nov 2025 02:30:49 +0000"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2511/06/news015.html",
       "pubDate": "Thu, 06 Nov 2025 07:00:00 +0900"
     },
@@ -747,6 +715,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/03/news094.html",
       "pubDate": "Wed, 03 Dec 2025 13:31:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/04/news097.html",
+      "pubDate": "Thu, 04 Dec 2025 15:54:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/12/85409/",
+      "pubDate": "Thu, 04 Dec 2025 03:00:40 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/04/news037.html",
+      "pubDate": "Thu, 04 Dec 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2512/04/news082.html",
+      "pubDate": "Thu, 04 Dec 2025 11:32:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/report/vertebra03-job-life/",
+      "pubDate": "Thu, 04 Dec 2025 02:15:44 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2512/04/news075.html",
+      "pubDate": "Thu, 04 Dec 2025 10:40:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/surrealism-nakkaart/",
+      "pubDate": "Thu, 04 Dec 2025 01:10:35 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/04/news029.html",
+      "pubDate": "Thu, 04 Dec 2025 09:00:00 +0900"
     }
   ]
 }
