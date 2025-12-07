@@ -1,70 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2511/07/news061.html",
-      "pubDate": "Fri, 07 Nov 2025 07:11:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/07/news041.html",
-      "pubDate": "Fri, 07 Nov 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2511/07/news009.html",
-      "pubDate": "Fri, 07 Nov 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2511/07/news025.html",
-      "pubDate": "Fri, 07 Nov 2025 06:30:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/07/news017.html",
-      "pubDate": "Fri, 07 Nov 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2511/06/news046.html",
-      "pubDate": "Thu, 06 Nov 2025 15:38:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/06/news084.html",
-      "pubDate": "Thu, 06 Nov 2025 13:46:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/interview/tanseisha-yamaha-1/",
-      "pubDate": "Thu, 06 Nov 2025 03:00:00 +0000"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
-      "pubDate": "Fri, 07 Nov 2025 15:00:00 GMT"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/11/84948/",
-      "pubDate": "Fri, 07 Nov 2025 09:35:36 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/07/news103.html",
-      "pubDate": "Fri, 07 Nov 2025 17:20:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2511/07/news100.html",
-      "pubDate": "Fri, 07 Nov 2025 16:51:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2511/07/news096.html",
-      "pubDate": "Fri, 07 Nov 2025 16:47:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/marble3-studiobrick-omotesando/",
-      "pubDate": "Fri, 07 Nov 2025 06:20:09 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/11/84884/",
-      "pubDate": "Fri, 07 Nov 2025 03:00:20 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/07/news047.html",
-      "pubDate": "Fri, 07 Nov 2025 12:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2511/08/news017.html",
       "pubDate": "Sat, 08 Nov 2025 09:00:00 +0900"
     },
@@ -747,6 +683,10 @@
     {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2512/05/news035.html",
       "pubDate": "Fri, 05 Dec 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2512/08/news049.html",
+      "pubDate": "Mon, 08 Dec 2025 06:15:00 +0900"
     }
   ]
 }
