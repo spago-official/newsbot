@@ -1,10 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/08/news017.html",
-      "pubDate": "Sat, 08 Nov 2025 09:00:00 +0900"
-    },
-    {
       "link": "https://kn.itmedia.co.jp/kn/articles/2511/10/news007.html",
       "pubDate": "Mon, 10 Nov 2025 07:00:00 +0900"
     },
@@ -687,6 +683,38 @@
     {
       "link": "https://monoist.itmedia.co.jp/mn/articles/2512/08/news049.html",
       "pubDate": "Mon, 08 Dec 2025 06:15:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/09/news040.html",
+      "pubDate": "Tue, 09 Dec 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/09/news013.html",
+      "pubDate": "Tue, 09 Dec 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/08/news096.html",
+      "pubDate": "Mon, 08 Dec 2025 18:12:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/08/news082.html",
+      "pubDate": "Mon, 08 Dec 2025 16:10:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/08/news047.html",
+      "pubDate": "Mon, 08 Dec 2025 16:00:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/spring-polamuseum/",
+      "pubDate": "Mon, 08 Dec 2025 05:25:32 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/08/news077.html",
+      "pubDate": "Mon, 08 Dec 2025 13:37:00 +0900"
     }
   ]
 }
