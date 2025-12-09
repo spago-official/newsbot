@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "link": "https://kn.itmedia.co.jp/kn/articles/2511/10/news007.html",
-      "pubDate": "Mon, 10 Nov 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/10/news006.html",
-      "pubDate": "Mon, 10 Nov 2025 05:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2511/11/news034.html",
       "pubDate": "Tue, 11 Nov 2025 07:30:00 +0900"
     },
@@ -715,6 +707,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/08/news077.html",
       "pubDate": "Mon, 08 Dec 2025 13:37:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/10/news061.html",
+      "pubDate": "Wed, 10 Dec 2025 07:17:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/10/news060.html",
+      "pubDate": "Wed, 10 Dec 2025 06:40:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/10/news018.html",
+      "pubDate": "Wed, 10 Dec 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/10/news010.html",
+      "pubDate": "Wed, 10 Dec 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
+      "pubDate": "Tue, 09 Dec 2025 16:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/09/news118.html",
+      "pubDate": "Tue, 09 Dec 2025 20:39:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
+      "pubDate": "Tue, 09 Dec 2025 10:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/09/news077.html",
+      "pubDate": "Tue, 09 Dec 2025 17:00:00 +0900"
     }
   ]
 }
