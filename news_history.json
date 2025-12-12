@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://kn.itmedia.co.jp/kn/articles/2511/13/news036.html",
-      "pubDate": "Thu, 13 Nov 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/13/news014.html",
-      "pubDate": "Thu, 13 Nov 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/12/news112.html",
-      "pubDate": "Wed, 12 Nov 2025 18:50:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/12/news110.html",
-      "pubDate": "Wed, 12 Nov 2025 17:55:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/onishimaki-yasudauniversity/",
-      "pubDate": "Wed, 12 Nov 2025 07:15:07 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/12/news075.html",
-      "pubDate": "Wed, 12 Nov 2025 15:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2511/12/news081.html",
-      "pubDate": "Wed, 12 Nov 2025 14:23:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/12/news080.html",
-      "pubDate": "Wed, 12 Nov 2025 14:17:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/news/articles/2511/14/news061.html",
       "pubDate": "Fri, 14 Nov 2025 07:48:00 +0900"
     },
@@ -739,6 +707,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/11/news131.html",
       "pubDate": "Thu, 11 Dec 2025 18:25:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/13/news022.html",
+      "pubDate": "Sat, 13 Dec 2025 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2512/12/news074.html",
+      "pubDate": "Sat, 13 Dec 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news103.html",
+      "pubDate": "Fri, 12 Dec 2025 16:50:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news099.html",
+      "pubDate": "Fri, 12 Dec 2025 15:56:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news078.html",
+      "pubDate": "Fri, 12 Dec 2025 12:24:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/12/85731/",
+      "pubDate": "Fri, 12 Dec 2025 03:00:03 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2512/12/news077.html",
+      "pubDate": "Fri, 12 Dec 2025 11:59:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news066.html",
+      "pubDate": "Fri, 12 Dec 2025 09:07:00 +0900"
     }
   ]
 }
