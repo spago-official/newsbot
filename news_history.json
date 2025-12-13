@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2511/14/news061.html",
-      "pubDate": "Fri, 14 Nov 2025 07:48:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2511/14/news047.html",
-      "pubDate": "Fri, 14 Nov 2025 06:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/14/news011.html",
-      "pubDate": "Fri, 14 Nov 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news015.html",
-      "pubDate": "Fri, 14 Nov 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/13/news131.html",
-      "pubDate": "Thu, 13 Nov 2025 19:48:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/13/news116.html",
-      "pubDate": "Thu, 13 Nov 2025 17:01:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
-      "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2511/13/news097.html",
-      "pubDate": "Thu, 13 Nov 2025 14:35:00 +0900"
-    },
-    {
       "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
       "pubDate": "Fri, 14 Nov 2025 13:00:00 GMT"
     },
@@ -739,6 +707,14 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news066.html",
       "pubDate": "Fri, 12 Dec 2025 09:07:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/12/news114.html",
+      "pubDate": "Sat, 13 Dec 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/13/news014.html",
+      "pubDate": "Sat, 13 Dec 2025 08:00:00 +0900"
     }
   ]
 }
