@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/19/news014.html",
-      "pubDate": "Wed, 19 Nov 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/19/news067.html",
-      "pubDate": "Wed, 19 Nov 2025 03:02:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/19/news066.html",
-      "pubDate": "Wed, 19 Nov 2025 01:54:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2511/18/news131.html",
-      "pubDate": "Tue, 18 Nov 2025 23:46:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
-      "pubDate": "Tue, 18 Nov 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/18/news121.html",
-      "pubDate": "Tue, 18 Nov 2025 18:37:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/18/news106.html",
-      "pubDate": "Tue, 18 Nov 2025 15:57:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/18/news076.html",
-      "pubDate": "Tue, 18 Nov 2025 13:27:00 +0900"
-    },
-    {
       "link": "https://monoist.itmedia.co.jp/mn/articles/2511/20/news032.html",
       "pubDate": "Thu, 20 Nov 2025 07:30:00 +0900"
     },
@@ -723,6 +691,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/17/news108.html",
       "pubDate": "Wed, 17 Dec 2025 15:39:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news086.html",
+      "pubDate": "Fri, 19 Dec 2025 07:21:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/09/news046.html",
+      "pubDate": "Fri, 19 Dec 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2512/19/news083.html",
+      "pubDate": "Fri, 19 Dec 2025 06:45:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2512/19/news013.html",
+      "pubDate": "Fri, 19 Dec 2025 06:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/19/news028.html",
+      "pubDate": "Fri, 19 Dec 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/18/news128.html",
+      "pubDate": "Thu, 18 Dec 2025 18:52:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/18/news109.html",
+      "pubDate": "Thu, 18 Dec 2025 16:23:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/18/news071.html",
+      "pubDate": "Thu, 18 Dec 2025 12:19:00 +0900"
     }
   ]
 }
