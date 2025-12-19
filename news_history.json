@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2511/20/news032.html",
-      "pubDate": "Thu, 20 Nov 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/19/news099.html",
-      "pubDate": "Wed, 19 Nov 2025 20:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/19/news119.html",
-      "pubDate": "Wed, 19 Nov 2025 16:56:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/19/news090.html",
-      "pubDate": "Wed, 19 Nov 2025 12:47:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/19/news083.html",
-      "pubDate": "Wed, 19 Nov 2025 12:30:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/11/85024/",
-      "pubDate": "Wed, 19 Nov 2025 03:00:54 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/19/news075.html",
-      "pubDate": "Wed, 19 Nov 2025 12:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/19/news085.html",
-      "pubDate": "Wed, 19 Nov 2025 11:51:00 +0900"
-    },
-    {
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/21/news027.html",
       "pubDate": "Fri, 21 Nov 2025 05:00:00 +0900"
     },
@@ -723,6 +691,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/18/news071.html",
       "pubDate": "Thu, 18 Dec 2025 12:19:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news133.html",
+      "pubDate": "Fri, 19 Dec 2025 20:20:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
+      "pubDate": "Fri, 19 Dec 2025 10:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news126.html",
+      "pubDate": "Fri, 19 Dec 2025 18:16:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/machupicchu-moriartcenter/",
+      "pubDate": "Fri, 19 Dec 2025 05:55:23 +0000"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/19/news080.html",
+      "pubDate": "Fri, 19 Dec 2025 13:00:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2025/12/85891/",
+      "pubDate": "Fri, 19 Dec 2025 03:00:56 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/leolionni-museumekikyoto/",
+      "pubDate": "Fri, 19 Dec 2025 02:55:01 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news093.html",
+      "pubDate": "Fri, 19 Dec 2025 11:53:00 +0900"
     }
   ]
 }
