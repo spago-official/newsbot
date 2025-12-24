@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/25/news053.html",
-      "pubDate": "Tue, 25 Nov 2025 07:33:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2511/25/news051.html",
-      "pubDate": "Tue, 25 Nov 2025 06:15:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/25/news018.html",
-      "pubDate": "Tue, 25 Nov 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/11/designing-for-stress-emergency/",
-      "pubDate": "Mon, 24 Nov 2025 13:00:00 GMT"
-    },
-    {
       "link": "https://www.itmedia.co.jp/business/articles/2511/26/news029.html",
       "pubDate": "Wed, 26 Nov 2025 07:00:00 +0900"
     },
@@ -731,6 +715,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/23/news091.html",
       "pubDate": "Tue, 23 Dec 2025 13:48:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/17/news087.html",
+      "pubDate": "Thu, 25 Dec 2025 07:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/25/news010.html",
+      "pubDate": "Thu, 25 Dec 2025 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news130.html",
+      "pubDate": "Wed, 24 Dec 2025 19:18:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news128.html",
+      "pubDate": "Wed, 24 Dec 2025 19:17:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news121.html",
+      "pubDate": "Wed, 24 Dec 2025 17:38:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news110.html",
+      "pubDate": "Wed, 24 Dec 2025 16:15:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/interview/ofs-terakoya/",
+      "pubDate": "Wed, 24 Dec 2025 03:50:36 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news085.html",
+      "pubDate": "Wed, 24 Dec 2025 12:10:00 +0900"
     }
   ]
 }
