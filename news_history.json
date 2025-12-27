@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/28/news041.html",
-      "pubDate": "Fri, 28 Nov 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/28/news038.html",
-      "pubDate": "Fri, 28 Nov 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2511/28/news066.html",
-      "pubDate": "Fri, 28 Nov 2025 06:30:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/designer/314_ryota_yokozeki",
-      "pubDate": "Thu, 27 Nov 2025 10:00:46 +0000"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
-      "pubDate": "Thu, 27 Nov 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/27/news119.html",
-      "pubDate": "Thu, 27 Nov 2025 18:10:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/27/news122.html",
-      "pubDate": "Thu, 27 Nov 2025 18:08:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/27/news111.html",
-      "pubDate": "Thu, 27 Nov 2025 15:52:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2511/28/news126.html",
       "pubDate": "Fri, 28 Nov 2025 18:13:00 +0900"
     },
@@ -51,18 +19,6 @@
     {
       "link": "https://www.japandesign.ne.jp/news/2025/11/84827/",
       "pubDate": "Fri, 28 Nov 2025 00:00:14 +0000"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/28/news065.html",
-      "pubDate": "Fri, 28 Nov 2025 08:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/28/news051.html",
-      "pubDate": "Fri, 28 Nov 2025 08:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2511/28/news031.html",
-      "pubDate": "Fri, 28 Nov 2025 08:00:00 +0900"
     },
     {
       "link": "https://www.itmedia.co.jp/news/articles/2512/01/news051.html",
@@ -747,6 +703,18 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/26/news055.html",
       "pubDate": "Fri, 26 Dec 2025 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/27/news041.html",
+      "pubDate": "Sat, 27 Dec 2025 08:04:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/27/news025.html",
+      "pubDate": "Sat, 27 Dec 2025 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/27/news020.html",
+      "pubDate": "Sat, 27 Dec 2025 08:00:00 +0900"
     }
   ]
 }
