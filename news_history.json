@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/02/news036.html",
-      "pubDate": "Tue, 02 Dec 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/02/news024.html",
-      "pubDate": "Tue, 02 Dec 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2512/02/news026.html",
-      "pubDate": "Tue, 02 Dec 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2512/02/news020.html",
-      "pubDate": "Tue, 02 Dec 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2512/02/news058.html",
-      "pubDate": "Tue, 02 Dec 2025 06:41:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2512/02/news025.html",
-      "pubDate": "Tue, 02 Dec 2025 06:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/02/news009.html",
-      "pubDate": "Tue, 02 Dec 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/02/news005.html",
-      "pubDate": "Tue, 02 Dec 2025 05:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/news/articles/2512/03/news062.html",
       "pubDate": "Wed, 03 Dec 2025 06:31:00 +0900"
     },
@@ -715,6 +683,18 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/30/news015.html",
       "pubDate": "Tue, 30 Dec 2025 08:45:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/01/news014.html",
+      "pubDate": "Thu, 01 Jan 2026 00:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/31/news010.html",
+      "pubDate": "Wed, 31 Dec 2025 16:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2512/31/news009.html",
+      "pubDate": "Wed, 31 Dec 2025 08:30:00 +0900"
     }
   ]
 }
