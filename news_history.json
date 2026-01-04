@@ -1,102 +1,6 @@
 {
   "items": [
     {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/04/news016.html",
-      "pubDate": "Thu, 04 Dec 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2512/03/news133.html",
-      "pubDate": "Wed, 03 Dec 2025 18:07:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/03/news128.html",
-      "pubDate": "Wed, 03 Dec 2025 17:40:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/03/news126.html",
-      "pubDate": "Wed, 03 Dec 2025 17:38:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/03/news124.html",
-      "pubDate": "Wed, 03 Dec 2025 16:56:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/12/85566/",
-      "pubDate": "Wed, 03 Dec 2025 07:35:20 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/plantsandcrafts-dougukan/",
-      "pubDate": "Wed, 03 Dec 2025 06:30:15 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/03/news094.html",
-      "pubDate": "Wed, 03 Dec 2025 13:31:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/04/news097.html",
-      "pubDate": "Thu, 04 Dec 2025 15:54:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/12/85409/",
-      "pubDate": "Thu, 04 Dec 2025 03:00:40 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/04/news037.html",
-      "pubDate": "Thu, 04 Dec 2025 12:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2512/04/news082.html",
-      "pubDate": "Thu, 04 Dec 2025 11:32:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/report/vertebra03-job-life/",
-      "pubDate": "Thu, 04 Dec 2025 02:15:44 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2512/04/news075.html",
-      "pubDate": "Thu, 04 Dec 2025 10:40:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/surrealism-nakkaart/",
-      "pubDate": "Thu, 04 Dec 2025 01:10:35 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/04/news029.html",
-      "pubDate": "Thu, 04 Dec 2025 09:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
-      "pubDate": "Fri, 05 Dec 2025 15:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/05/news107.html",
-      "pubDate": "Fri, 05 Dec 2025 16:19:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/05/news089.html",
-      "pubDate": "Fri, 05 Dec 2025 13:13:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/05/news086.html",
-      "pubDate": "Fri, 05 Dec 2025 12:55:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/05/news015.html",
-      "pubDate": "Fri, 05 Dec 2025 12:13:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/12/85014/",
-      "pubDate": "Fri, 05 Dec 2025 00:00:23 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2512/05/news049.html",
-      "pubDate": "Fri, 05 Dec 2025 08:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/05/news035.html",
-      "pubDate": "Fri, 05 Dec 2025 08:00:00 +0900"
-    },
-    {
       "link": "https://monoist.itmedia.co.jp/mn/articles/2512/08/news049.html",
       "pubDate": "Mon, 08 Dec 2025 06:15:00 +0900"
     },
@@ -675,6 +579,10 @@
     {
       "link": "https://www.itmedia.co.jp/business/articles/2601/01/news004.html",
       "pubDate": "Thu, 01 Jan 2026 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2026/01/85943/",
+      "pubDate": "Sun, 04 Jan 2026 23:00:11 +0000"
     }
   ]
 }
