@@ -1,10 +1,6 @@
 {
   "items": [
     {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2512/08/news049.html",
-      "pubDate": "Mon, 08 Dec 2025 06:15:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2512/09/news040.html",
       "pubDate": "Tue, 09 Dec 2025 07:30:00 +0900"
     },
@@ -615,6 +611,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2601/05/news077.html",
       "pubDate": "Mon, 05 Jan 2026 13:24:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2601/06/news122.html",
+      "pubDate": "Tue, 06 Jan 2026 19:11:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/06/news120.html",
+      "pubDate": "Tue, 06 Jan 2026 18:08:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/06/news098.html",
+      "pubDate": "Tue, 06 Jan 2026 15:42:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/06/news050.html",
+      "pubDate": "Tue, 06 Jan 2026 13:00:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/interview/tansei-cmi-1/",
+      "pubDate": "Tue, 06 Jan 2026 03:06:18 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/interview/tansei-cmi-2/",
+      "pubDate": "Tue, 06 Jan 2026 03:05:17 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2026/01/86037/",
+      "pubDate": "Tue, 06 Jan 2026 03:00:07 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/06/news015.html",
+      "pubDate": "Tue, 06 Jan 2026 12:00:00 +0900"
     }
   ]
 }
