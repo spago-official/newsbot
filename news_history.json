@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/09/news040.html",
-      "pubDate": "Tue, 09 Dec 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/09/news013.html",
-      "pubDate": "Tue, 09 Dec 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/08/news096.html",
-      "pubDate": "Mon, 08 Dec 2025 18:12:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
-      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/08/news082.html",
-      "pubDate": "Mon, 08 Dec 2025 16:10:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/08/news047.html",
-      "pubDate": "Mon, 08 Dec 2025 16:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/spring-polamuseum/",
-      "pubDate": "Mon, 08 Dec 2025 05:25:32 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/08/news077.html",
-      "pubDate": "Mon, 08 Dec 2025 13:37:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/10/news061.html",
       "pubDate": "Wed, 10 Dec 2025 07:17:00 +0900"
     },
@@ -643,6 +611,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2601/06/news015.html",
       "pubDate": "Tue, 06 Jan 2026 12:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/08/news052.html",
+      "pubDate": "Thu, 08 Jan 2026 07:29:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/08/news009.html",
+      "pubDate": "Thu, 08 Jan 2026 05:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
+      "pubDate": "Wed, 07 Jan 2026 10:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/07/news101.html",
+      "pubDate": "Wed, 07 Jan 2026 14:54:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2601/07/news099.html",
+      "pubDate": "Wed, 07 Jan 2026 14:06:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/07/news079.html",
+      "pubDate": "Wed, 07 Jan 2026 12:20:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2026/01/85991/",
+      "pubDate": "Wed, 07 Jan 2026 03:00:41 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2601/07/news065.html",
+      "pubDate": "Wed, 07 Jan 2026 10:09:00 +0900"
     }
   ]
 }
