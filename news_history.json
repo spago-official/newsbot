@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/10/news061.html",
-      "pubDate": "Wed, 10 Dec 2025 07:17:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/10/news060.html",
-      "pubDate": "Wed, 10 Dec 2025 06:40:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/10/news018.html",
-      "pubDate": "Wed, 10 Dec 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/10/news010.html",
-      "pubDate": "Wed, 10 Dec 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
-      "pubDate": "Tue, 09 Dec 2025 16:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/09/news118.html",
-      "pubDate": "Tue, 09 Dec 2025 20:39:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
-      "pubDate": "Tue, 09 Dec 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/09/news077.html",
-      "pubDate": "Tue, 09 Dec 2025 17:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2512/11/news028.html",
       "pubDate": "Thu, 11 Dec 2025 07:30:00 +0900"
     },
@@ -643,6 +611,38 @@
     {
       "link": "https://www.itmedia.co.jp/news/articles/2601/07/news065.html",
       "pubDate": "Wed, 07 Jan 2026 10:09:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2601/09/news046.html",
+      "pubDate": "Fri, 09 Jan 2026 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/09/news041.html",
+      "pubDate": "Fri, 09 Jan 2026 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/09/news037.html",
+      "pubDate": "Fri, 09 Jan 2026 07:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/09/news023.html",
+      "pubDate": "Fri, 09 Jan 2026 05:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/",
+      "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/08/news098.html",
+      "pubDate": "Thu, 08 Jan 2026 16:42:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2026/01/86168/",
+      "pubDate": "Thu, 08 Jan 2026 07:00:18 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/08/news095.html",
+      "pubDate": "Thu, 08 Jan 2026 16:00:00 +0900"
     }
   ]
 }
