@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/12/news048.html",
-      "pubDate": "Fri, 12 Dec 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2512/12/news065.html",
-      "pubDate": "Fri, 12 Dec 2025 07:28:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/12/news045.html",
-      "pubDate": "Fri, 12 Dec 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2512/12/news022.html",
-      "pubDate": "Fri, 12 Dec 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news064.html",
-      "pubDate": "Fri, 12 Dec 2025 06:07:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/12/news014.html",
-      "pubDate": "Fri, 12 Dec 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2512/12/news060.html",
-      "pubDate": "Fri, 12 Dec 2025 01:15:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/11/news131.html",
-      "pubDate": "Thu, 11 Dec 2025 18:25:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2512/13/news022.html",
       "pubDate": "Sat, 13 Dec 2025 07:30:00 +0900"
     },
@@ -643,6 +611,10 @@
     {
       "link": "https://www.japandesign.ne.jp/event/exploring3-osakametro/",
       "pubDate": "Fri, 09 Jan 2026 02:00:50 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/10/news010.html",
+      "pubDate": "Sat, 10 Jan 2026 08:00:00 +0900"
     }
   ]
 }
