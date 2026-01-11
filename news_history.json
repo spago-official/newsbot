@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/13/news022.html",
-      "pubDate": "Sat, 13 Dec 2025 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2512/12/news074.html",
-      "pubDate": "Sat, 13 Dec 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news103.html",
-      "pubDate": "Fri, 12 Dec 2025 16:50:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news099.html",
-      "pubDate": "Fri, 12 Dec 2025 15:56:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news078.html",
-      "pubDate": "Fri, 12 Dec 2025 12:24:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/12/85731/",
-      "pubDate": "Fri, 12 Dec 2025 03:00:03 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2512/12/news077.html",
-      "pubDate": "Fri, 12 Dec 2025 11:59:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news066.html",
-      "pubDate": "Fri, 12 Dec 2025 09:07:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/12/news114.html",
-      "pubDate": "Sat, 13 Dec 2025 08:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/13/news014.html",
-      "pubDate": "Sat, 13 Dec 2025 08:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/16/news054.html",
       "pubDate": "Tue, 16 Dec 2025 07:13:00 +0900"
     },
@@ -615,6 +575,10 @@
     {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2601/10/news010.html",
       "pubDate": "Sat, 10 Jan 2026 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2601/11/news014.html",
+      "pubDate": "Sun, 11 Jan 2026 08:19:00 +0900"
     }
   ]
 }
