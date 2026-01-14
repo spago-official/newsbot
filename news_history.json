@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/16/news054.html",
-      "pubDate": "Tue, 16 Dec 2025 07:13:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/06/news008.html",
-      "pubDate": "Tue, 16 Dec 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/16/news017.html",
-      "pubDate": "Tue, 16 Dec 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/15/news123.html",
-      "pubDate": "Mon, 15 Dec 2025 19:09:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/15/news121.html",
-      "pubDate": "Mon, 15 Dec 2025 18:55:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/15/news109.html",
-      "pubDate": "Mon, 15 Dec 2025 16:57:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/15/news095.html",
-      "pubDate": "Mon, 15 Dec 2025 15:26:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/15/news060.html",
-      "pubDate": "Mon, 15 Dec 2025 15:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/17/news069.html",
       "pubDate": "Wed, 17 Dec 2025 07:24:00 +0900"
     },
@@ -643,6 +611,38 @@
     {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2601/13/news075.html",
       "pubDate": "Tue, 13 Jan 2026 15:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/15/news064.html",
+      "pubDate": "Thu, 15 Jan 2026 07:37:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2601/15/news047.html",
+      "pubDate": "Thu, 15 Jan 2026 07:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2601/15/news014.html",
+      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/15/news016.html",
+      "pubDate": "Thu, 15 Jan 2026 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/14/news113.html",
+      "pubDate": "Wed, 14 Jan 2026 22:56:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
+      "pubDate": "Wed, 14 Jan 2026 10:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/14/news101.html",
+      "pubDate": "Wed, 14 Jan 2026 17:03:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/14/news091.html",
+      "pubDate": "Wed, 14 Jan 2026 16:39:00 +0900"
     }
   ]
 }
