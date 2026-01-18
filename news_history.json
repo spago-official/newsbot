@@ -1,70 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news086.html",
-      "pubDate": "Fri, 19 Dec 2025 07:21:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/09/news046.html",
-      "pubDate": "Fri, 19 Dec 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2512/19/news083.html",
-      "pubDate": "Fri, 19 Dec 2025 06:45:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2512/19/news013.html",
-      "pubDate": "Fri, 19 Dec 2025 06:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/19/news028.html",
-      "pubDate": "Fri, 19 Dec 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/18/news128.html",
-      "pubDate": "Thu, 18 Dec 2025 18:52:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/18/news109.html",
-      "pubDate": "Thu, 18 Dec 2025 16:23:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/18/news071.html",
-      "pubDate": "Thu, 18 Dec 2025 12:19:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news133.html",
-      "pubDate": "Fri, 19 Dec 2025 20:20:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
-      "pubDate": "Fri, 19 Dec 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news126.html",
-      "pubDate": "Fri, 19 Dec 2025 18:16:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/machupicchu-moriartcenter/",
-      "pubDate": "Fri, 19 Dec 2025 05:55:23 +0000"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/19/news080.html",
-      "pubDate": "Fri, 19 Dec 2025 13:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/12/85891/",
-      "pubDate": "Fri, 19 Dec 2025 03:00:56 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/leolionni-museumekikyoto/",
-      "pubDate": "Fri, 19 Dec 2025 02:55:01 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news093.html",
-      "pubDate": "Fri, 19 Dec 2025 11:53:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/22/news023.html",
       "pubDate": "Mon, 22 Dec 2025 07:00:00 +0900"
     },
@@ -643,6 +579,18 @@
     {
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/16/news059.html",
       "pubDate": "Fri, 16 Jan 2026 13:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/19/news050.html",
+      "pubDate": "Mon, 19 Jan 2026 07:25:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/business/articles/2601/19/news019.html",
+      "pubDate": "Mon, 19 Jan 2026 07:00:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/19/news017.html",
+      "pubDate": "Mon, 19 Jan 2026 05:00:00 +0900"
     }
   ]
 }
