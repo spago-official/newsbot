@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/22/news023.html",
-      "pubDate": "Mon, 22 Dec 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/22/news011.html",
-      "pubDate": "Mon, 22 Dec 2025 05:00:00 +0900"
-    },
-    {
       "link": "https://kn.itmedia.co.jp/kn/articles/2512/23/news040.html",
       "pubDate": "Tue, 23 Dec 2025 07:00:00 +0900"
     },
@@ -623,6 +615,38 @@
     {
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/19/news037.html",
       "pubDate": "Mon, 19 Jan 2026 13:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/21/news058.html",
+      "pubDate": "Wed, 21 Jan 2026 07:15:00 +0900"
+    },
+    {
+      "link": "https://kn.itmedia.co.jp/kn/articles/2601/21/news031.html",
+      "pubDate": "Wed, 21 Jan 2026 07:00:00 +0900"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2601/21/news042.html",
+      "pubDate": "Wed, 21 Jan 2026 06:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/20/news120.html",
+      "pubDate": "Tue, 20 Jan 2026 19:31:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
+      "pubDate": "Tue, 20 Jan 2026 10:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/20/news111.html",
+      "pubDate": "Tue, 20 Jan 2026 17:12:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/20/news107.html",
+      "pubDate": "Tue, 20 Jan 2026 16:47:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/20/news085.html",
+      "pubDate": "Tue, 20 Jan 2026 13:17:00 +0900"
     }
   ]
 }
