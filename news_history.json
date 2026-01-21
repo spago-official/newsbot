@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://kn.itmedia.co.jp/kn/articles/2512/23/news040.html",
-      "pubDate": "Tue, 23 Dec 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://kn.itmedia.co.jp/kn/articles/2512/22/news031.html",
-      "pubDate": "Tue, 23 Dec 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/23/news017.html",
-      "pubDate": "Tue, 23 Dec 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/23/news016.html",
-      "pubDate": "Tue, 23 Dec 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/22/news125.html",
-      "pubDate": "Mon, 22 Dec 2025 20:21:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/22/news098.html",
-      "pubDate": "Mon, 22 Dec 2025 14:27:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/12/85941/",
-      "pubDate": "Mon, 22 Dec 2025 05:10:32 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2512/22/news095.html",
-      "pubDate": "Mon, 22 Dec 2025 13:41:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2512/24/news043.html",
       "pubDate": "Wed, 24 Dec 2025 07:30:00 +0900"
     },
@@ -647,6 +615,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2601/20/news085.html",
       "pubDate": "Tue, 20 Jan 2026 13:17:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2601/22/news065.html",
+      "pubDate": "Thu, 22 Jan 2026 08:05:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/22/news004.html",
+      "pubDate": "Thu, 22 Jan 2026 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/21/news113.html",
+      "pubDate": "Wed, 21 Jan 2026 19:36:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/21/news108.html",
+      "pubDate": "Wed, 21 Jan 2026 18:27:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/21/news082.html",
+      "pubDate": "Wed, 21 Jan 2026 13:23:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/21/news080.html",
+      "pubDate": "Wed, 21 Jan 2026 13:08:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/21/news075.html",
+      "pubDate": "Wed, 21 Jan 2026 11:42:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/digshibuya-2026/",
+      "pubDate": "Wed, 21 Jan 2026 02:00:15 +0000"
     }
   ]
 }
