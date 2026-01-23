@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/17/news087.html",
-      "pubDate": "Thu, 25 Dec 2025 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/25/news010.html",
-      "pubDate": "Thu, 25 Dec 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news130.html",
-      "pubDate": "Wed, 24 Dec 2025 19:18:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news128.html",
-      "pubDate": "Wed, 24 Dec 2025 19:17:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news121.html",
-      "pubDate": "Wed, 24 Dec 2025 17:38:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news110.html",
-      "pubDate": "Wed, 24 Dec 2025 16:15:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/interview/ofs-terakoya/",
-      "pubDate": "Wed, 24 Dec 2025 03:50:36 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news085.html",
-      "pubDate": "Wed, 24 Dec 2025 12:10:00 +0900"
-    },
-    {
       "link": "https://www.japandesign.ne.jp/event/alfredojaar-operacitygallery/",
       "pubDate": "Thu, 25 Dec 2025 23:10:51 +0000"
     },
@@ -647,6 +615,38 @@
     {
       "link": "https://www.japandesign.ne.jp/event/bijulab-tmirai/",
       "pubDate": "Thu, 22 Jan 2026 06:35:14 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/23/news095.html",
+      "pubDate": "Fri, 23 Jan 2026 15:39:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2601/23/news048.html",
+      "pubDate": "Fri, 23 Jan 2026 12:30:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2026/01/86367/",
+      "pubDate": "Fri, 23 Jan 2026 03:00:13 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/interview/tanseisha-workwear-1/",
+      "pubDate": "Fri, 23 Jan 2026 01:55:41 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/interview/tanseisha-workwear-2/",
+      "pubDate": "Fri, 23 Jan 2026 01:50:49 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/emaki-toranogate/",
+      "pubDate": "Fri, 23 Jan 2026 01:00:25 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/terradaartaward-2025-teradasoko/",
+      "pubDate": "Fri, 23 Jan 2026 00:45:15 +0000"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/worldbookdesign-2025-printingmuseum/",
+      "pubDate": "Fri, 23 Jan 2026 00:45:09 +0000"
     }
   ]
 }
