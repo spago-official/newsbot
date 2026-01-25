@@ -1,82 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.japandesign.ne.jp/event/alfredojaar-operacitygallery/",
-      "pubDate": "Thu, 25 Dec 2025 23:10:51 +0000"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/26/news023.html",
-      "pubDate": "Fri, 26 Dec 2025 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/25/news102.html",
-      "pubDate": "Thu, 25 Dec 2025 16:01:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/25/news099.html",
-      "pubDate": "Thu, 25 Dec 2025 15:38:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/25/news095.html",
-      "pubDate": "Thu, 25 Dec 2025 15:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/25/news073.html",
-      "pubDate": "Thu, 25 Dec 2025 13:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/12/85997/",
-      "pubDate": "Thu, 25 Dec 2025 03:05:33 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/25/news080.html",
-      "pubDate": "Thu, 25 Dec 2025 11:31:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/26/news116.html",
-      "pubDate": "Fri, 26 Dec 2025 18:10:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/26/news113.html",
-      "pubDate": "Fri, 26 Dec 2025 17:29:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/26/news112.html",
-      "pubDate": "Fri, 26 Dec 2025 17:06:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/26/news101.html",
-      "pubDate": "Fri, 26 Dec 2025 15:52:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/26/news089.html",
-      "pubDate": "Fri, 26 Dec 2025 13:14:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/12/86017/",
-      "pubDate": "Fri, 26 Dec 2025 03:05:37 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2025/12/85996/",
-      "pubDate": "Fri, 26 Dec 2025 03:00:41 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/26/news055.html",
-      "pubDate": "Fri, 26 Dec 2025 12:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/27/news041.html",
-      "pubDate": "Sat, 27 Dec 2025 08:04:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/27/news025.html",
-      "pubDate": "Sat, 27 Dec 2025 08:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/27/news020.html",
-      "pubDate": "Sat, 27 Dec 2025 08:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/news/articles/2512/28/news037.html",
       "pubDate": "Sun, 28 Dec 2025 17:31:00 +0900"
     },
@@ -647,6 +571,10 @@
     {
       "link": "https://www.japandesign.ne.jp/event/worldbookdesign-2025-printingmuseum/",
       "pubDate": "Fri, 23 Jan 2026 00:45:09 +0000"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/26/news021.html",
+      "pubDate": "Mon, 26 Jan 2026 05:00:00 +0900"
     }
   ]
 }
