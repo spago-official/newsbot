@@ -1,32 +1,12 @@
 {
   "items": [
     {
-      "link": "https://www.japandesign.ne.jp/column/souieba202512/",
-      "pubDate": "Tue, 30 Dec 2025 11:00:59 +0000"
-    },
-    {
-      "link": "https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/",
-      "pubDate": "Tue, 30 Dec 2025 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2512/30/news034.html",
-      "pubDate": "Tue, 30 Dec 2025 11:38:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/30/news015.html",
-      "pubDate": "Tue, 30 Dec 2025 08:45:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2601/01/news014.html",
       "pubDate": "Thu, 01 Jan 2026 00:00:00 +0900"
     },
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2512/31/news010.html",
       "pubDate": "Wed, 31 Dec 2025 16:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2512/31/news009.html",
-      "pubDate": "Wed, 31 Dec 2025 08:30:00 +0900"
     },
     {
       "link": "https://kn.itmedia.co.jp/kn/articles/2601/02/news011.html",
@@ -643,6 +623,38 @@
     {
       "link": "https://www.japandesign.ne.jp/interview/tdp-kawamukai/",
       "pubDate": "Wed, 28 Jan 2026 03:00:23 +0000"
+    },
+    {
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2601/30/news066.html",
+      "pubDate": "Fri, 30 Jan 2026 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2601/30/news071.html",
+      "pubDate": "Fri, 30 Jan 2026 07:37:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/30/news022.html",
+      "pubDate": "Fri, 30 Jan 2026 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/29/news122.html",
+      "pubDate": "Thu, 29 Jan 2026 16:59:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/29/news120.html",
+      "pubDate": "Thu, 29 Jan 2026 16:54:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2601/29/news056.html",
+      "pubDate": "Thu, 29 Jan 2026 15:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/29/news103.html",
+      "pubDate": "Thu, 29 Jan 2026 13:48:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/29/news097.html",
+      "pubDate": "Thu, 29 Jan 2026 13:14:00 +0900"
     }
   ]
 }
