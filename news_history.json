@@ -1,24 +1,8 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/01/news014.html",
-      "pubDate": "Thu, 01 Jan 2026 00:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/31/news010.html",
-      "pubDate": "Wed, 31 Dec 2025 16:00:00 +0900"
-    },
-    {
       "link": "https://kn.itmedia.co.jp/kn/articles/2601/02/news011.html",
       "pubDate": "Fri, 02 Jan 2026 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/01/news012.html",
-      "pubDate": "Thu, 01 Jan 2026 08:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2601/01/news004.html",
-      "pubDate": "Thu, 01 Jan 2026 08:00:00 +0900"
     },
     {
       "link": "https://www.japandesign.ne.jp/news/2026/01/85943/",
@@ -655,6 +639,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2601/29/news097.html",
       "pubDate": "Thu, 29 Jan 2026 13:14:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/31/news014.html",
+      "pubDate": "Sat, 31 Jan 2026 08:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
+      "pubDate": "Fri, 30 Jan 2026 13:00:00 GMT"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/report/alter-2025-tokyo/",
+      "pubDate": "Fri, 30 Jan 2026 09:00:59 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news117.html",
+      "pubDate": "Fri, 30 Jan 2026 17:58:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/column/souieba202601/",
+      "pubDate": "Fri, 30 Jan 2026 08:00:12 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news112.html",
+      "pubDate": "Fri, 30 Jan 2026 16:41:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news107.html",
+      "pubDate": "Fri, 30 Jan 2026 16:05:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news106.html",
+      "pubDate": "Fri, 30 Jan 2026 15:36:00 +0900"
     }
   ]
 }
