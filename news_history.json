@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/news/articles/2601/06/news122.html",
-      "pubDate": "Tue, 06 Jan 2026 19:11:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/06/news120.html",
-      "pubDate": "Tue, 06 Jan 2026 18:08:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/06/news098.html",
-      "pubDate": "Tue, 06 Jan 2026 15:42:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/06/news050.html",
-      "pubDate": "Tue, 06 Jan 2026 13:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/interview/tansei-cmi-1/",
-      "pubDate": "Tue, 06 Jan 2026 03:06:18 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/interview/tansei-cmi-2/",
-      "pubDate": "Tue, 06 Jan 2026 03:05:17 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2026/01/86037/",
-      "pubDate": "Tue, 06 Jan 2026 03:00:07 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/06/news015.html",
-      "pubDate": "Tue, 06 Jan 2026 12:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2601/08/news052.html",
       "pubDate": "Thu, 08 Jan 2026 07:29:00 +0900"
     },
@@ -735,6 +703,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2602/04/news125.html",
       "pubDate": "Wed, 04 Feb 2026 19:13:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2602/05/news031.html",
+      "pubDate": "Fri, 06 Feb 2026 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/06/news061.html",
+      "pubDate": "Fri, 06 Feb 2026 07:11:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/06/news016.html",
+      "pubDate": "Fri, 06 Feb 2026 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/05/news131.html",
+      "pubDate": "Thu, 05 Feb 2026 19:07:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/05/news119.html",
+      "pubDate": "Thu, 05 Feb 2026 17:26:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
+      "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/05/news116.html",
+      "pubDate": "Thu, 05 Feb 2026 16:57:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/05/news092.html",
+      "pubDate": "Thu, 05 Feb 2026 13:56:00 +0900"
     }
   ]
 }
