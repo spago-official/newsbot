@@ -1,74 +1,6 @@
 {
   "items": [
     {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2601/09/news046.html",
-      "pubDate": "Fri, 09 Jan 2026 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/09/news041.html",
-      "pubDate": "Fri, 09 Jan 2026 07:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/09/news037.html",
-      "pubDate": "Fri, 09 Jan 2026 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/09/news023.html",
-      "pubDate": "Fri, 09 Jan 2026 05:00:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/",
-      "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/08/news098.html",
-      "pubDate": "Thu, 08 Jan 2026 16:42:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2026/01/86168/",
-      "pubDate": "Thu, 08 Jan 2026 07:00:18 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/08/news095.html",
-      "pubDate": "Thu, 08 Jan 2026 16:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/09/news105.html",
-      "pubDate": "Fri, 09 Jan 2026 17:56:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/09/news101.html",
-      "pubDate": "Fri, 09 Jan 2026 17:00:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/report/changingchairs-2025/",
-      "pubDate": "Fri, 09 Jan 2026 04:45:49 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/09/news080.html",
-      "pubDate": "Fri, 09 Jan 2026 13:27:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/09/news062.html",
-      "pubDate": "Fri, 09 Jan 2026 13:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/09/news078.html",
-      "pubDate": "Fri, 09 Jan 2026 12:48:00 +0900"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/news/2026/01/86149/",
-      "pubDate": "Fri, 09 Jan 2026 03:00:04 +0000"
-    },
-    {
-      "link": "https://www.japandesign.ne.jp/event/exploring3-osakametro/",
-      "pubDate": "Fri, 09 Jan 2026 02:00:50 +0000"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/10/news010.html",
-      "pubDate": "Sat, 10 Jan 2026 08:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/news/articles/2601/11/news014.html",
       "pubDate": "Sun, 11 Jan 2026 08:19:00 +0900"
     },
@@ -735,6 +667,18 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2602/06/news086.html",
       "pubDate": "Fri, 06 Feb 2026 13:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/09/news039.html",
+      "pubDate": "Mon, 09 Feb 2026 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/09/news063.html",
+      "pubDate": "Mon, 09 Feb 2026 07:37:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/09/news009.html",
+      "pubDate": "Mon, 09 Feb 2026 05:00:00 +0900"
     }
   ]
 }
