@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2601/13/news003.html",
-      "pubDate": "Tue, 13 Jan 2026 07:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/13/news008.html",
-      "pubDate": "Tue, 13 Jan 2026 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/13/news044.html",
-      "pubDate": "Tue, 13 Jan 2026 02:36:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
-      "pubDate": "Mon, 12 Jan 2026 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/12/news022.html",
-      "pubDate": "Mon, 12 Jan 2026 15:23:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/12/news020.html",
-      "pubDate": "Mon, 12 Jan 2026 11:06:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/news/articles/2601/12/news019.html",
-      "pubDate": "Mon, 12 Jan 2026 10:06:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/business/articles/2601/14/news022.html",
       "pubDate": "Wed, 14 Jan 2026 05:00:00 +0900"
     },
@@ -735,6 +707,26 @@
     {
       "link": "https://www.japandesign.ne.jp/event/beyondembodiment-icc/",
       "pubDate": "Tue, 10 Feb 2026 02:00:51 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/12/news053.html",
+      "pubDate": "Thu, 12 Feb 2026 07:35:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/12/news018.html",
+      "pubDate": "Thu, 12 Feb 2026 05:00:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
+      "pubDate": "Wed, 11 Feb 2026 13:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/11/news031.html",
+      "pubDate": "Wed, 11 Feb 2026 12:08:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/news/2026/02/86651/",
+      "pubDate": "Wed, 11 Feb 2026 03:00:35 +0000"
     }
   ]
 }
