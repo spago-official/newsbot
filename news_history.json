@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/15/news064.html",
-      "pubDate": "Thu, 15 Jan 2026 07:37:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/business/articles/2601/15/news047.html",
-      "pubDate": "Thu, 15 Jan 2026 07:00:00 +0900"
-    },
-    {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2601/15/news014.html",
-      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/15/news016.html",
-      "pubDate": "Thu, 15 Jan 2026 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/14/news113.html",
-      "pubDate": "Wed, 14 Jan 2026 22:56:00 +0900"
-    },
-    {
-      "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
-      "pubDate": "Wed, 14 Jan 2026 10:00:00 GMT"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/14/news101.html",
-      "pubDate": "Wed, 14 Jan 2026 17:03:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/14/news091.html",
-      "pubDate": "Wed, 14 Jan 2026 16:39:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/enterprise/articles/2601/16/news037.html",
       "pubDate": "Fri, 16 Jan 2026 07:30:00 +0900"
     },
@@ -727,6 +695,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2602/12/news079.html",
       "pubDate": "Thu, 12 Feb 2026 13:29:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
+      "pubDate": "Fri, 13 Feb 2026 15:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2602/13/news119.html",
+      "pubDate": "Fri, 13 Feb 2026 20:20:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/13/news106.html",
+      "pubDate": "Fri, 13 Feb 2026 16:50:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/13/news101.html",
+      "pubDate": "Fri, 13 Feb 2026 16:22:00 +0900"
+    },
+    {
+      "link": "https://www.japandesign.ne.jp/event/onestool-onestory-interoffice/",
+      "pubDate": "Fri, 13 Feb 2026 04:40:00 +0000"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2602/13/news089.html",
+      "pubDate": "Fri, 13 Feb 2026 13:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/13/news088.html",
+      "pubDate": "Fri, 13 Feb 2026 13:22:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/13/news074.html",
+      "pubDate": "Fri, 13 Feb 2026 12:01:00 +0900"
     }
   ]
 }
