@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2601/20/news039.html",
-      "pubDate": "Tue, 20 Jan 2026 06:30:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/20/news017.html",
-      "pubDate": "Tue, 20 Jan 2026 05:00:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/20/news014.html",
-      "pubDate": "Tue, 20 Jan 2026 05:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/19/news107.html",
-      "pubDate": "Mon, 19 Jan 2026 18:30:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/19/news041.html",
-      "pubDate": "Mon, 19 Jan 2026 17:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/19/news070.html",
-      "pubDate": "Mon, 19 Jan 2026 14:00:00 +0900"
-    },
-    {
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/19/news085.html",
-      "pubDate": "Mon, 19 Jan 2026 13:58:00 +0900"
-    },
-    {
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/19/news037.html",
-      "pubDate": "Mon, 19 Jan 2026 13:00:00 +0900"
-    },
-    {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2601/21/news058.html",
       "pubDate": "Wed, 21 Jan 2026 07:15:00 +0900"
     },
@@ -723,6 +691,38 @@
     {
       "link": "https://www.itmedia.co.jp/aiplus/articles/2602/17/news109.html",
       "pubDate": "Tue, 17 Feb 2026 15:48:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2602/19/news045.html",
+      "pubDate": "Thu, 19 Feb 2026 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2602/19/news039.html",
+      "pubDate": "Thu, 19 Feb 2026 08:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2602/19/news038.html",
+      "pubDate": "Thu, 19 Feb 2026 07:30:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/19/news067.html",
+      "pubDate": "Thu, 19 Feb 2026 07:04:00 +0900"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/19/news018.html",
+      "pubDate": "Thu, 19 Feb 2026 05:00:00 +0900"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/news/articles/2602/19/news065.html",
+      "pubDate": "Thu, 19 Feb 2026 00:30:00 +0900"
+    },
+    {
+      "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
+      "pubDate": "Wed, 18 Feb 2026 15:00:00 GMT"
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/18/news132.html",
+      "pubDate": "Wed, 18 Feb 2026 19:40:00 +0900"
     }
   ]
 }
